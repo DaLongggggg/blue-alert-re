@@ -4,6 +4,10 @@
 
 **收录原则：两作内容混排、不按作品分目录。** 每个条目以「第一部 / 第二部」徽标标注归属作品；两作完全相同的条目只出一份（id 前缀 `g12`）。
 
+**线上地址：<https://dalongggggg.github.io/blue-alert-re/>**（推送到 `main` 后由 GitHub Actions 自动部署）。
+
+站内收录：战役任务 34 关（第一部 23 + 第二部 11）、教学模式 1 个、联机地图 14 张；单位 / 建筑 / 生产模式 / 武器名表条目 81 条；新兵手册与武器一览。每条数据都注明出处，拿不准的地方如实标注「尚未考证」，不做推断。
+
 ## 目录结构
 
 ```
@@ -30,9 +34,7 @@ REPO\
 │  ├─ credits.json           # 制作名单
 │  ├─ hotkeys.json           # 快捷键
 │  └─ examples\              # 冒烟测试样例（仅 test:pipeline 使用）
-├─ tools\
-│  ├─ build-content.mjs      # data/*.json → 生成任务/单位/分类页面
-│  └─ check-content.mjs      # schema / id 唯一 / sources 非空 / 目录结构校验
+├─ tools\                     # 生成/校验脚本 + 媒体提取与精灵解码 + 逆向取证脚本
 ├─ research\                 # 格式文档与逆向笔记（DATA-MODEL.md 为数据契约）
 ├─ _work\                    # 大体量中间产物（不入库）
 └─ .github\workflows\deploy.yml
@@ -74,6 +76,18 @@ BASE=/ npm run build && BASE=/ npm run preview
 
 完整字段规范见 [research/DATA-MODEL.md](research/DATA-MODEL.md)。**修改字段名前先同步该文档与 `tools/` 两个脚本。**
 
+## 工具一览（`tools/`）
+
+| 文件 | 作用 |
+| --- | --- |
+| `build-content.mjs` / `check-content.mjs` | 由 `data/*.json` 生成任务页、单位页与分类页；校验数据契约（`npm run content` / `npm run check`） |
+| `extract_media.py` | 从游戏目录提取地形底图、小地图、界面资料图与影片（用法见 [tools/extract_README.md](tools/extract_README.md)） |
+| `decode_sprites.py` | 解码 `sprites.info/.data` 精灵包（RGB565 行 RLE），渲染精灵图与资料框全息图 |
+| `link_missions_media.py` / `link_units_images.py` | 把提取产物按命名规则绑定到 `data/missions.json` 的 `media` 与 `data/units.json` 的图片字段（幂等，可重跑） |
+| `mine_*.py` | 逆向取证脚本：从程序数据段、反汇编文本与说明书中还原名称表、简报与热键，生成 `data/` 与 `research/` 的原始材料 |
+
+格式说明与逆向笔记见 `research/`（`FORMAT-media.md`、`FORMAT-sprites.md`、`notes-*.md`）。提取与解码脚本只读取游戏目录，产物写入仓库内；全程不运行游戏程序。
+
 ## 媒体说明
 
 - 媒体文件放在 `docs/public/media/{missions,pictures,movies,units,ui}/`，文件名以 `-g1` / `-g2` / `-g12` 结尾标注归属作品。
@@ -83,4 +97,6 @@ BASE=/ npm run build && BASE=/ npm run preview
 
 ## 发布
 
-GitHub Actions（`.github/workflows/deploy.yml`）在 `push` 到 `main` 或手动触发时执行 `npm ci && npm run build` 并发布到 GitHub Pages。首次使用需在仓库 **Settings → Pages** 将 Source 设为 **GitHub Actions**。
+GitHub Actions（`.github/workflows/deploy.yml`）在 `push` 到 `main` 或手动触发时执行 `npm ci && npm run build` 并发布到 GitHub Pages。本仓库的 Pages Source 已设为 **GitHub Actions**；fork 后自行部署时，需在仓库 **Settings → Pages** 把 Source 设为 **GitHub Actions**。
+
+线上构建不含影片文件（不入库）：生成器检测到文件缺失时，任务页自动改为显示影片封面与说明；在本地运行提取脚本即可补齐影片。
