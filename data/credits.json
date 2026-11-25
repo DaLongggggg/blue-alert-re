@@ -1,0 +1,78 @@
+{
+  "sections": [
+    {
+      "title": "Programming",
+      "people": [
+        "Emil Popovic"
+      ],
+      "games": [
+        "g1",
+        "g2"
+      ]
+    },
+    {
+      "title": "Artwork and Animations",
+      "people": [
+        "Stefan Pavelka"
+      ],
+      "games": [
+        "g1",
+        "g2"
+      ]
+    },
+    {
+      "title": "Music and Sfx",
+      "people": [
+        "Martin Demsky"
+      ],
+      "games": [
+        "g1",
+        "g2"
+      ]
+    },
+    {
+      "title": "Special thanks to",
+      "people": [
+        "Vlado Hudak",
+        "Ludo Velas",
+        "Richard Max",
+        "Martin Sabo Balog",
+        "Marcel Ratvaj",
+        "Pavol Kovacik",
+        "Juraj Koci",
+        "Kathleen Gallen",
+        "Michal Pekarik",
+        "Radoslav Marusa",
+        "Vlado Saffa"
+      ],
+      "games": [
+        "g1",
+        "g2"
+      ]
+    },
+    {
+      "title": null,
+      "people": [
+        "宋文韬",
+        "董敏",
+        "王雯",
+        "徐欢",
+        "肖峰",
+        "向涛",
+        "韩慧侠",
+        "岩月",
+        "张立刚",
+        "延美花",
+        "张学峰"
+      ],
+      "games": [
+        "g1"
+      ],
+      "note": "汉化人员：原文无分组标题，位于 Special thanks 组之后，以「@」(0x4a1ae4) 与「!」(0x4a19b0) 空行标记分隔；显示顺序按 FUN(0x42df50–0x42e337) push 顺序转写（先 push 者先显示）。"
+    }
+  ],
+  "sources": [
+    "g1 State of War.exe .data 0x4a1958–0x4a1ae8（research/mining-g1-weapons-credits.txt）；名单构建 FUN push 顺序 0x42df6d(!Programming)→0x42e325(@张学峰)，空行标记 0x4a19b0='!' 0x4a1ae4='@'",
+    "g2 State of War - Warmonger.exe .data 0x49ea6c–0x49eb8c（research/mining-g2-credits.txt，斯洛伐克团队同，无汉化人员名单）"
+  ]
+}

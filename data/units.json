@@ -1,0 +1,2136 @@
+[
+  {
+    "id": "u-001",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "轰炸机袭击",
+    "nameEn": "Bomber Attack",
+    "category": "air",
+    "group": "unit",
+    "unitId": 30,
+    "summary": "一次空投多枚炸弹的轰炸机",
+    "description": "这种轰炸机能一次空投多枚炸弹，毁掉一大片地区，但是由于它的飞行速度很慢，所以很容易被敌人的反空单位击中。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/bomber-g12.png",
+    "imageNote": "向左飞行的轰炸机",
+    "gallery": [
+      {
+        "image": "/media/units/holo-bomber-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 30→0x4a1608）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 30→0x49e718）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 30→0x4a132c）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3118；g2 InfoBox 字节表0x435a18→0x4a0218",
+      "分类依据: 说明「轰炸机…空投多枚炸弹」"
+    ]
+  },
+  {
+    "id": "u-002",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "运兵飞船",
+    "nameEn": "CarryAll",
+    "category": "air",
+    "group": "unit",
+    "unitId": 31,
+    "summary": "运送陆地单位的运兵飞船",
+    "description": "运兵飞船一次能运来多个陆地作战单位，但是由于它的笨重，所以很容易被击落。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/carryall-g12.png",
+    "imageNote": "中性色运输机",
+    "gallery": [
+      {
+        "image": "/media/units/holo-carryall-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 31→0x4a15ec）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 31→0x49e6fc）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 31→0x4a1310）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a30cc；g2 InfoBox 字节表0x435a18→0x4a01c8",
+      "分类依据: 说明「运兵飞船…运送陆地作战单位」"
+    ]
+  },
+  {
+    "id": "u-003",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "战斗机袭击",
+    "nameEn": "Fighter Assault",
+    "category": "air",
+    "group": "unit",
+    "unitId": 32,
+    "summary": "高速不会被击落的战斗机",
+    "description": "这些战斗机是用一种很轻的金属制造的，所以它们能达到一种令人难以置信的速度。它携带的炸弹不多，但是它从来不会被击落。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/fighter-g12.png",
+    "imageNote": "战斗机小图",
+    "gallery": [
+      {
+        "image": "/media/units/holo-fighter-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 32→0x4a15d0）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 32→0x49e6e0）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 32→0x4a12f0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3058；g2 InfoBox 字节表0x435a18→0x4a0150",
+      "分类依据: 说明「战斗机…不会被击落」"
+    ]
+  },
+  {
+    "id": "u-004",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "连环轰炸机轰炸",
+    "nameEn": "Tripler Strafe",
+    "category": "air",
+    "group": "unit",
+    "unitId": 33,
+    "summary": "一次释放很强能量的连环轰炸机",
+    "description": "连环轰炸机能释放出很强的能量，毁掉许多单位。但由于其笨重的结构，它的飞行速度很慢，很容易受到敌人的攻击。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/tripler-g12.png",
+    "imageNote": "三发轰炸机",
+    "gallery": [
+      {
+        "image": "/media/units/holo-tripler-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 33→0x4a15dc）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 33→0x49e6ec）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 33→0x4a1300）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2fec；g2 InfoBox 字节表0x435a18→0x4a00e0",
+      "分类依据: 说明「连环轰炸机…」"
+    ]
+  },
+  {
+    "id": "u-005",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "飞碟",
+    "nameEn": "Advancer",
+    "category": "air",
+    "group": "unit",
+    "unitId": 40,
+    "summary": "可占领/升级/修理建筑的飞行单位",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/ufo-g12.png",
+    "imageNote": "特种单位主图；圆盘造型，exe 类名 CUfo",
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 40→0x4a165c）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 40→0x49e76c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 40→0x4a1390）",
+      "分类依据: 说明/任务文本：飞碟可飞行、占领/升级/修理"
+    ]
+  },
+  {
+    "id": "u-006",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "金币流入1",
+    "nameEn": "Gold Influx 1",
+    "category": "building",
+    "group": "mode",
+    "unitId": 16,
+    "summary": "金矿生产模式：一次提炼10克黄金",
+    "description": "这种系统能一次从金矿里提炼10g黄金制造金钱。它是金钱的来源，也是金子的仓库。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-gold-influx-1-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 16→0x4a1558）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 16→0x49e668）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 16→0x4a1208）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a32fc；g2 InfoBox 字节表0x435a18→0x4a0408",
+      "分类依据: 名称「流入」+说明（提炼10g黄金）"
+    ]
+  },
+  {
+    "id": "u-007",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "金币流入2",
+    "nameEn": "Gold Influx 2",
+    "category": "building",
+    "group": "mode",
+    "unitId": 17,
+    "summary": "金矿生产模式：一次提炼20克黄金",
+    "description": "改良的系统能一次从金矿里提炼20克黄金用来制造金钱。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-gold-influx-2-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 17→0x4a154c）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 17→0x49e65c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 17→0x4a11f8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a32c8；g2 InfoBox 字节表0x435a18→0x4a03d0",
+      "分类依据: 同左(20g)"
+    ]
+  },
+  {
+    "id": "u-008",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "金币流入3",
+    "nameEn": "Gold Influx 3",
+    "category": "building",
+    "group": "mode",
+    "unitId": 18,
+    "summary": "金矿生产模式：一次提炼30克黄金",
+    "description": "终极系统能在极短的时间里一次从金矿里提炼30克黄金用来制造金钱。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-gold-influx-3-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 18→0x4a1540）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 18→0x49e650）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 18→0x4a11e8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3288；g2 InfoBox 字节表0x435a18→0x4a0390",
+      "分类依据: 同左(30g)"
+    ]
+  },
+  {
+    "id": "u-009",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "研究指数流入1",
+    "nameEn": "Research Influx 1",
+    "category": "building",
+    "group": "mode",
+    "unitId": 19,
+    "summary": "研究指数生产模式：一次两个研究指数",
+    "description": "这种基本模式一次能增加两个研究指数。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-research-influx-1-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 19→0x4a150c）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 19→0x49e61c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 19→0x4a11a4）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a31a8；g2 InfoBox 字节表0x435a18→0x4a02a8",
+      "分类依据: 名称「流入」+说明（研究指数模式）"
+    ]
+  },
+  {
+    "id": "u-010",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "研究指数流入2",
+    "nameEn": "Research Influx 2",
+    "category": "building",
+    "group": "mode",
+    "unitId": 20,
+    "summary": "研究指数生产模式：一次一个研究指数",
+    "description": "这种模式一次能增加一个研究指数。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-research-influx-2-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 20→0x4a14fc）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 20→0x49e60c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 20→0x4a1190）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3184；g2 InfoBox 字节表0x435a18→0x4a0284",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-011",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "研究指数流入3",
+    "nameEn": "Research Influx 3",
+    "category": "building",
+    "group": "mode",
+    "unitId": 21,
+    "summary": "同20（共用说明）",
+    "description": "这种模式一次能增加一个研究指数。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-research-influx-3-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 21→0x4a14ec）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 21→0x49e5fc）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 21→0x4a117c）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3184；g2 InfoBox 字节表0x435a18→0x4a0284",
+      "分类依据: 同左（与20共用同一说明）"
+    ]
+  },
+  {
+    "id": "u-012",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "能量流入1",
+    "nameEn": "Energy Influx 1",
+    "category": "building",
+    "group": "mode",
+    "unitId": 22,
+    "summary": "工厂生产模式：制造提速10%",
+    "description": "初级生产机构模式。工厂采用这种制造模式能将作战单位的制造速度提速10%。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-energy-influx-1-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 22→0x4a1534）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 22→0x49e644）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 22→0x4a11d8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3240；g2 InfoBox 字节表0x435a18→0x4a0348",
+      "分类依据: 名称「流入」+说明（生产模式提速10%）"
+    ]
+  },
+  {
+    "id": "u-013",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "能量流入2",
+    "nameEn": "Energy Influx 2",
+    "category": "building",
+    "group": "mode",
+    "unitId": 23,
+    "summary": "工厂生产模式：制造提速20%",
+    "description": "中级生产机构模式。工厂用这种制造模式能将作战单位的制造速度提速20%。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-energy-influx-2-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 23→0x4a1528）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 23→0x49e638）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 23→0x4a11c8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a31fc；g2 InfoBox 字节表0x435a18→0x4a0300",
+      "分类依据: 同左(20%)"
+    ]
+  },
+  {
+    "id": "u-014",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "能量流入3",
+    "nameEn": "Energy Influx 3",
+    "category": "building",
+    "group": "mode",
+    "unitId": 24,
+    "summary": "工厂生产模式：制造提速30%",
+    "description": "高级生产机构模式能使工厂的制造速度提速30%。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-energy-influx-3-g12.png",
+    "imageNote": "资料框绿色全息图（生产模式图标）",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 24→0x4a151c）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 24→0x49e62c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 24→0x4a11b8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a31d0；g2 InfoBox 字节表0x435a18→0x4a02d0",
+      "分类依据: 同左(30%)"
+    ]
+  },
+  {
+    "id": "u-015",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "总部",
+    "nameEn": "Headquarters",
+    "category": "building",
+    "group": "building",
+    "unitId": 100,
+    "summary": "玩家基地核心，生产飞碟，唯一天然免疫空袭/罗根炸弹的建筑",
+    "description": "这是你的总部。飞碟就是在这儿制造的。总部是唯一不受空中单位和罗根炸弹袭击的建筑。你必须用一切办法保护你的总部！",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/hq-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-headquarters-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 100→0x4a15c8）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 100→0x49e6d8）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 100→0x4a12e0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2f38；g2 InfoBox 字节表0x435a18→0x4a0028",
+      "分类依据: 说明「这是你的总部…」"
+    ]
+  },
+  {
+    "id": "u-016",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "金矿",
+    "nameEn": "Gold Mine",
+    "category": "building",
+    "group": "building",
+    "unitId": 105,
+    "summary": "把金子转变成金钱的建筑",
+    "description": "把金子转变成金钱对于炮塔的建造是很有用的。炮塔能保护建筑，并能抵御敌人进攻。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/goldmine-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-gold-mine-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 105→0x4a1580）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 105→0x49e690）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 105→0x4a1284）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2d08；g2 InfoBox 字节表0x435a18→0x49fdf0",
+      "分类依据: 说明「把金子转变成金钱」"
+    ]
+  },
+  {
+    "id": "u-017",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "太阳能搜集器",
+    "nameEn": "Research Lab",
+    "category": "building",
+    "group": "building",
+    "unitId": 106,
+    "summary": "产出研究指数的建筑",
+    "description": "研究指数是在这儿得到的。中型或重型的工厂非常需要它们，因为它们能改善制造技术水平。没有研究指数的积累，就不可能生产出中型或重型的作战单位。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/researchlab-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-research-lab-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 106→0x4a1570）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 106→0x49e680）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 106→0x4a1274）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2c7c；g2 InfoBox 字节表0x435a18→0x49fd60",
+      "分类依据: 说明「研究指数是在这儿得到的」"
+    ]
+  },
+  {
+    "id": "u-018",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "风能搜集器",
+    "nameEn": "WindTrap",
+    "category": "building",
+    "group": "building",
+    "unitId": 107,
+    "summary": "利用风能制造能源的建筑",
+    "description": "这种建筑在战略上是很重要的。另外，它能利用风能制造能源，从而使工厂持续生产。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/windtrap-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-windtrap-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 107→0x4a1564）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 107→0x49e674）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 107→0x4a1268）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2c2c；g2 InfoBox 字节表0x435a18→0x49fd10",
+      "分类依据: 说明「利用风能制造能源」"
+    ]
+  },
+  {
+    "id": "u-019",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "轻型防空设施",
+    "nameEn": "Light AntiAir",
+    "category": "defense",
+    "group": "building",
+    "unitId": 1,
+    "summary": "可发射两枚对空导弹的轻型防空炮塔",
+    "description": "轻型防空系统主要作用是保护战略建筑。它可以发射两枚强有力的地对空导弹，但由于它的装甲比较薄弱，所以最好以量取胜。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/antiair-light-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装，双管）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-light-antiair-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 1→0x4a1768）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 1→0x49e878）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 1→0x4a14b4）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3a08；g2 InfoBox 字节表0x435a18→0x4a0b38",
+      "分类依据: 名称「防空设施」+说明（发射两枚对空导弹）"
+    ]
+  },
+  {
+    "id": "u-020",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "中型防空设施",
+    "nameEn": "Medium AntiAir",
+    "category": "defense",
+    "group": "building",
+    "unitId": 2,
+    "summary": "可发射四枚对空导弹的中型防空炮塔",
+    "description": "中型防空系统能发射四枚地对空导弹。它的装甲比低级防空炮塔要强。用少量中型防空系统就可以消灭飞碟。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/antiair-medium-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-medium-antiair-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 2→0x4a1758）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 2→0x49e868）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 2→0x4a14a4）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a39a4；g2 InfoBox 字节表0x435a18→0x4a0ad0",
+      "分类依据: 名称+说明（四枚对空导弹）"
+    ]
+  },
+  {
+    "id": "u-021",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "重型防空设施",
+    "nameEn": "Heavy AntiAir",
+    "category": "defense",
+    "group": "building",
+    "unitId": 3,
+    "summary": "可发射六枚对空导弹的重型防空炮塔",
+    "description": "重型防空系统装甲很强，它能发射六枚对空导弹来反击空中作战单位，给任何来犯之敌以沉重打击。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/antiair-heavy-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-heavy-antiair-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 3→0x4a1748）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 3→0x49e858）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 3→0x4a1494）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3948；g2 InfoBox 字节表0x435a18→0x4a0a70",
+      "分类依据: 名称+说明（六枚对空导弹）"
+    ]
+  },
+  {
+    "id": "u-022",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "防护大炮",
+    "nameEn": "Guard Cannon",
+    "category": "defense",
+    "group": "building",
+    "unitId": 25,
+    "summary": "打击轻型单位的便宜炮塔",
+    "description": "这是一种便宜的炮塔，它主要是用来打击轻型作战单位。尽管它的射程很近，但许多这样的炮塔一起开火就相当于中级作战单位的威力。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 25→0x4a1644）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 25→0x49e754）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 25→0x4a1374）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2bb0；g2 InfoBox 字节表0x435a18→0x49fc90",
+      "分类依据: 说明「便宜的炮塔」"
+    ]
+  },
+  {
+    "id": "u-023",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "防空设施",
+    "nameEn": "A.A. Defence",
+    "category": "defense",
+    "group": "building",
+    "unitId": 26,
+    "summary": "发射四枚对空导弹的防空炮塔",
+    "description": "这种防空系统能发射四个地对空导弹，因此它能攻击飞碟和空中轰炸机等。但它不能打击陆地作战单位。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 26→0x4a1638）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 26→0x49e748）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 26→0x4a1364）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2b50；g2 InfoBox 字节表0x435a18→0x49fc30",
+      "分类依据: 说明「防空系统…发射四个地对空导弹」"
+    ]
+  },
+  {
+    "id": "u-024",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "离子炮塔",
+    "nameEn": "Plasma Mob",
+    "category": "defense",
+    "group": "building",
+    "unitId": 27,
+    "summary": "装配离子武器、射程较远的炮塔",
+    "description": "这种炮塔装配有离子武器，它能十分有效地攻击轻型单位。离子炮塔射程比防护炮塔远。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 27→0x4a162c）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 27→0x49e73c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 27→0x4a1358）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2b00；g2 InfoBox 字节表0x435a18→0x49fbe0",
+      "分类依据: 说明「炮塔装配有离子武器」"
+    ]
+  },
+  {
+    "id": "u-025",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "莱德风暴",
+    "nameEn": "LedStorm",
+    "category": "defense",
+    "group": "building",
+    "unitId": 28,
+    "summary": "快速开火的旋转炮塔",
+    "description": "这种快速开火的旋转炮塔威力是很大的，它厚重的装甲能抵御中型作战单位的袭击。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 28→0x4a1620）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 28→0x49e730）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 28→0x4a134c）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2ab4；g2 InfoBox 字节表0x435a18→0x49fb90",
+      "分类依据: 说明「快速开火的旋转炮塔」"
+    ]
+  },
+  {
+    "id": "u-026",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "集束炮塔",
+    "nameEn": "Defragmentator",
+    "category": "defense",
+    "group": "building",
+    "unitId": 29,
+    "summary": "装甲厚重、爆炸性强的集束炮塔",
+    "description": "厚重的装甲和强劲的火力使集束炮塔能抵御中型和重型单位的袭击，而且由于它的爆炸性很强，所以近处的炮塔会被其瞬间摧毁。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 29→0x4a1614）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 29→0x49e724）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 29→0x4a133c）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2a40；g2 InfoBox 字节表0x435a18→0x49fb18",
+      "分类依据: 说明「集束炮塔…」"
+    ]
+  },
+  {
+    "id": "u-027",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "Top Sentry G10",
+    "nameEn": "Top Sentry G10",
+    "category": "defense",
+    "group": "building",
+    "unitId": 109,
+    "summary": "塔炮 Top Sentry G10",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 109→0x4a1258）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 109→0x49e368）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 109→0x4a1258）",
+      "分类依据: 英文名 Top Sentry 系列（塔炮哨戒）"
+    ]
+  },
+  {
+    "id": "u-028",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "Top Sentry A20",
+    "nameEn": "Top Sentry A20",
+    "category": "defense",
+    "group": "building",
+    "unitId": 110,
+    "summary": "塔炮 Top Sentry A20",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 110→0x4a1248）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 110→0x49e358）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 110→0x4a1248）",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-029",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "Top Sentry G30",
+    "nameEn": "Top Sentry G30",
+    "category": "defense",
+    "group": "building",
+    "unitId": 111,
+    "summary": "塔炮 Top Sentry G30",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 111→0x4a1238）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 111→0x49e348）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 111→0x4a1238）",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-030",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "Top Sentry G40",
+    "nameEn": "Top Sentry G40",
+    "category": "defense",
+    "group": "building",
+    "unitId": 112,
+    "summary": "塔炮 Top Sentry G40",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 112→0x4a1228）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 112→0x49e338）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 112→0x4a1228）",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-031",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "Top Sentry G50",
+    "nameEn": "Top Sentry G50",
+    "category": "defense",
+    "group": "building",
+    "unitId": 113,
+    "summary": "塔炮 Top Sentry G50",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 113→0x4a1218）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 113→0x49e328）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 113→0x4a1218）",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-032",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "轻型工厂",
+    "nameEn": "Light Factory",
+    "category": "factory",
+    "group": "building",
+    "unitId": 101,
+    "summary": "快速生产轻型单位的工厂",
+    "description": "这种工厂生产得很快，但只是轻型装甲单位。要使工厂提速生产，你需要升级你的生产模式。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/factory-light-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-light-factory-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 101→0x4a15bc）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 101→0x49e6cc）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 101→0x4a12d0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2ee4；g2 InfoBox 字节表0x435a18→0x49ffd0",
+      "分类依据: 说明「这种工厂生产得很快」"
+    ]
+  },
+  {
+    "id": "u-033",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "中型工厂",
+    "nameEn": "Medium Factory",
+    "category": "factory",
+    "group": "building",
+    "unitId": 102,
+    "summary": "生产中级单位的工厂（需研究指数）",
+    "description": "这种工厂生产的中级作战单位有良好战斗力和较重的装甲，但这些都需要太阳能搜集器获得的研究指数。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/factory-medium-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-medium-factory-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 102→0x4a15b0）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 102→0x49e6c0）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 102→0x4a12c0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2e84；g2 InfoBox 字节表0x435a18→0x49ff70",
+      "分类依据: 同左（中级作战单位）"
+    ]
+  },
+  {
+    "id": "u-034",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "重型工厂",
+    "nameEn": "Heavy Factory",
+    "category": "factory",
+    "group": "building",
+    "unitId": 103,
+    "summary": "生产重型慢速单位的工厂",
+    "description": "这种工厂制造的重型单位速度很慢，但它们有着重型的装甲和威力强大的武器，他们所向披靡。重型单位是摧毁敌人的建筑最有效的武器。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/factory-heavy-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-heavy-factory-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 103→0x4a15a4）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 103→0x49e6b4）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 103→0x4a12b0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2e08；g2 InfoBox 字节表0x435a18→0x49fef0",
+      "分类依据: 同左（重型单位）"
+    ]
+  },
+  {
+    "id": "u-035",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "飞机生产基地",
+    "nameEn": "Air Navigator",
+    "category": "factory",
+    "group": "building",
+    "unitId": 104,
+    "summary": "提供空中打击力量的建筑",
+    "description": "这种建筑能提供空中打击力量，用它们你可以袭击地图上的任一地方。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/airfactory-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-air-navigator-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 104→0x4a1588）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 104→0x49e698）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 104→0x4a1290）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2d58；g2 InfoBox 字节表0x435a18→0x49fe40",
+      "分类依据: 说明「能提供空中打击力量」"
+    ]
+  },
+  {
+    "id": "u-036",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "机器人工厂",
+    "nameEn": "Walker Factory",
+    "category": "factory",
+    "group": "building",
+    "unitId": 108,
+    "summary": "生产超级机器人的工厂",
+    "description": "工厂生产的超级机器人有很强的火炮和重型装甲。它们能打击重型作战单位和建筑。超级机器人是所有作战单位中最高级的。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/walkerfactory-g12.png",
+    "imageNote": "蓝军建筑（建成态）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-walker-factory-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 108→0x4a1598）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 108→0x49e6a8）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 108→0x4a12a0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2d98；g2 InfoBox 字节表0x435a18→0x49fe80",
+      "分类依据: 说明「工厂生产的超级机器人…」"
+    ]
+  },
+  {
+    "id": "u-037",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "轻型炮兵",
+    "nameEn": "Light Artillery",
+    "category": "land",
+    "group": "unit",
+    "unitId": 4,
+    "summary": "射速慢但射程远的轻型炮兵",
+    "description": "这种作战单位主要用于远距离的战斗。对于打击静态防御设施或建筑非常有效，像炮塔，但是其射速很慢。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/artillery-light-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-light-artillery-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 4→0x4a173c）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 4→0x49e84c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 4→0x4a1484）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a38e8；g2 InfoBox 字节表0x435a18→0x4a0a10",
+      "分类依据: 名称「炮兵」+说明（远距离射击）"
+    ]
+  },
+  {
+    "id": "u-038",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "中型炮兵",
+    "nameEn": "Medium Artillery",
+    "category": "land",
+    "group": "unit",
+    "unitId": 5,
+    "summary": "长炮管大口径的中型炮兵",
+    "description": "中型炮兵有一个较长的炮管和较大的口径。这种作战单位很适合远距离的战斗。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/artillery-medium-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-medium-artillery-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 5→0x4a1730）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 5→0x49e840）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 5→0x4a1470）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a38a0；g2 InfoBox 字节表0x435a18→0x4a09c8",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-039",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "重型炮兵",
+    "nameEn": "Heavy Artillery",
+    "category": "land",
+    "group": "unit",
+    "unitId": 6,
+    "summary": "双炮管远射的重型炮兵",
+    "description": "重型炮兵有两个炮管，可以作远距离的射击。它是最适合毁掉炮塔的作战单位，但是它不适合攻击近距离的目标。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/artillery-heavy-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-heavy-artillery-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 6→0x4a1724）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 6→0x49e834）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 6→0x4a1460）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3838；g2 InfoBox 字节表0x435a18→0x4a0960",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-040",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "轻型装甲坦克",
+    "nameEn": "Light Panzer",
+    "category": "land",
+    "group": "unit",
+    "unitId": 7,
+    "summary": "移动最快的标准轻型坦克",
+    "description": "标准轻型坦克装配有轻型装甲。轻型坦克属于移动最快的作战单位。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/panzer-light-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-light-panzer-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 7→0x4a1714）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 7→0x49e824）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 7→0x4a1450）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a37f8；g2 InfoBox 字节表0x435a18→0x4a091c",
+      "分类依据: 名称「装甲坦克」+说明（移动最快）"
+    ]
+  },
+  {
+    "id": "u-041",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "中型装甲坦克",
+    "nameEn": "Medium Panzer",
+    "category": "land",
+    "group": "unit",
+    "unitId": 8,
+    "summary": "双炮管可旋转炮台的中型坦克",
+    "description": "这种坦克有着强壮的装甲，带两个炮管的可旋转炮台。虽然速度会慢一些，但它比轻型坦克更有威力。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/panzer-medium-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-medium-panzer-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 8→0x4a1704）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 8→0x49e814）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 8→0x4a1440）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a379c；g2 InfoBox 字节表0x435a18→0x4a08c0",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-042",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "重型装甲坦克",
+    "nameEn": "Heavy Panzer",
+    "category": "land",
+    "group": "unit",
+    "unitId": 9,
+    "summary": "三炮筒重型装甲坦克",
+    "description": "这是一种有可旋转炮台，三个炮筒的重型装甲单位，它可以给敌人以沉重的打击。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/panzer-heavy-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-heavy-panzer-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 9→0x4a16f4）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 9→0x49e804）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 9→0x4a1430）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3750；g2 InfoBox 字节表0x435a18→0x4a0870",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-043",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "轻型喷火器",
+    "nameEn": "Light Flamer",
+    "category": "land",
+    "group": "unit",
+    "unitId": 10,
+    "summary": "装配火焰喷射器的快速轻型单位",
+    "description": "这种作战单位主要适合近距离的作战，它装配有火焰喷射器。而且速度很快。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/flamer-light-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-light-flamer-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 10→0x4a16e8）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 10→0x49e7f8）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 10→0x4a1420）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3708；g2 InfoBox 字节表0x435a18→0x4a0828",
+      "分类依据: 名称「喷火器」+说明（火焰喷射器）"
+    ]
+  },
+  {
+    "id": "u-044",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "中型喷火器",
+    "nameEn": "Medium Flamer",
+    "category": "land",
+    "group": "unit",
+    "unitId": 11,
+    "summary": "威力更大的喷火器与更好装甲的中型单位",
+    "description": "这种作战单位比轻型作战单位速度慢，但它具有更大威力的喷火器，和更好的装甲。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/flamer-medium-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-medium-flamer-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 11→0x4a16dc）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 11→0x49e7ec）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 11→0x4a1410）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a36bc；g2 InfoBox 字节表0x435a18→0x4a07d8",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-045",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "重型喷火器",
+    "nameEn": "Heavy Flamer",
+    "category": "land",
+    "group": "unit",
+    "unitId": 12,
+    "summary": "重型装甲双喷火装置单位",
+    "description": "它是近距离作战单位的克星，它装备有重型的装甲，可旋转的炮台和两个喷火装置。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/flamer-heavy-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-heavy-flamer-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 12→0x4a16d0）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 12→0x49e7e0）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 12→0x4a1400）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3670；g2 InfoBox 字节表0x435a18→0x4a0788",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-046",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "轻型特派坦克",
+    "nameEn": "Light Special",
+    "category": "land",
+    "group": "unit",
+    "unitId": 13,
+    "summary": "机动性与远距离激光兼备的轻型特派坦克",
+    "description": "这是一种速度和火力良好结合的作战单位。它有着优秀的机动性及远距离的激光发射器。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/special-light-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装，轮式）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-light-special-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 13→0x4a16c0）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 13→0x49e7d0）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 13→0x4a13f0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3620；g2 InfoBox 字节表0x435a18→0x4a0738",
+      "分类依据: 名称「特派坦克」+说明（激光发射器）"
+    ]
+  },
+  {
+    "id": "u-047",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "中型特派坦克",
+    "nameEn": "Medium Special",
+    "category": "land",
+    "group": "unit",
+    "unitId": 14,
+    "summary": "熔解粒子炮筒的中型特派坦克",
+    "description": "这种中级的作战单位装备着较强的装甲，它的炮筒能发射有毁坏性的熔解粒子，这令它所向披靡。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/special-medium-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-medium-special-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 14→0x4a16b0）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 14→0x49e7c0）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 14→0x4a13e0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a35c8；g2 InfoBox 字节表0x435a18→0x4a06e0",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-048",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "重型特派坦克",
+    "nameEn": "Heavy Special",
+    "category": "land",
+    "group": "unit",
+    "unitId": 15,
+    "summary": "重型粒子炮特派坦克",
+    "description": "这种重型粒子炮是最有威力的武器之一，有着能抵御猛烈炮火的重型装甲，但是要建一个是很慢的。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/special-heavy-g12.png",
+    "imageNote": "单位图鉴主图（蓝军涂装）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-heavy-special-g12.png",
+        "label": "资料框绿色全息图"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 15→0x4a16a0）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 15→0x49e7b0）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 15→0x4a13d0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a356c；g2 InfoBox 字节表0x435a18→0x4a0680",
+      "分类依据: 同左"
+    ]
+  },
+  {
+    "id": "u-049",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "科迪亚克",
+    "nameEn": "Kodiak",
+    "category": "land",
+    "group": "unit",
+    "unitId": 41,
+    "summary": "装配双离子炮的超级机器人",
+    "description": "阿莫科斯装配着双离子炮。对付移动作战单位、炮塔和建筑都是很有效的，因为它的射程很远。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 41→0x4a1694）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 41→0x49e7a4）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 41→0x4a13c8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3514；g2 InfoBox 字节表0x435a18→0x4a0628",
+      "分类依据: 说明「阿莫科斯…超级机器人」"
+    ]
+  },
+  {
+    "id": "u-050",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "空对空复仇者",
+    "nameEn": "A.A. Avenger",
+    "category": "land",
+    "group": "unit",
+    "unitId": 42,
+    "summary": "发射四枚地对空导弹的机器人",
+    "description": "阿它默德能发射四枚地对空导弹。但它不能打击陆地作战单位，因为它是用来打击空中作战单位和飞碟的。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 42→0x4a1684）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 42→0x49e794）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 42→0x4a13b8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a34b4；g2 InfoBox 字节表0x435a18→0x4a05c8",
+      "分类依据: 说明「阿它默德…地对空导弹（机器人）」"
+    ]
+  },
+  {
+    "id": "u-051",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "美洲狮",
+    "nameEn": "Cougar",
+    "category": "land",
+    "group": "unit",
+    "unitId": 43,
+    "summary": "装备四个高速火炮的机器人",
+    "description": "这种机器人装备有四个高速火炮。它的中型火炮威力非常大。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 43→0x4a167c）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 43→0x49e78c）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 43→0x4a13b0）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a347c；g2 InfoBox 字节表0x435a18→0x4a0590",
+      "分类依据: 说明「四个高速火炮的机器人」"
+    ]
+  },
+  {
+    "id": "u-052",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "格林机关炮",
+    "nameEn": "Gatling",
+    "category": "land",
+    "group": "unit",
+    "unitId": 44,
+    "summary": "超远射程双旋转炮台的机器人",
+    "description": "这是一种适合超远距离射程的超级机器人。由于它有着双旋转炮台，所以它是最适合对付炮塔的机器人。",
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 44→0x4a1670）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 44→0x49e780）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 44→0x4a13a8）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a341c；g2 InfoBox 字节表0x435a18→0x4a0530",
+      "分类依据: 说明「超远距离射程的超级机器人」"
+    ]
+  },
+  {
+    "id": "u-053",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "阿基里斯",
+    "nameEn": "Achilles",
+    "category": "land",
+    "group": "unit",
+    "unitId": 45,
+    "summary": "瞬间毁掉陆地单位的近战机器人",
+    "description": "阿基里斯不能向敌人直接攻击，但是它是一种用于对付近距离作战单位非常有效的武器。它能在瞬间毁掉任何一个陆地单位。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/achilles-g12.png",
+    "imageNote": "特种单位主图；巨型步行机甲",
+    "gallery": [
+      {
+        "image": "/media/units/holo-achilles-g12.png",
+        "label": "资料框绿色全息图（步行机甲，双爪近战与说明吻合）"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 45→0x4a1664）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 45→0x49e774）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 45→0x4a139c）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a33ac；g2 InfoBox 字节表0x435a18→0x4a04c0",
+      "分类依据: 说明「阿基里斯…瞬间毁掉陆地单位」"
+    ]
+  },
+  {
+    "id": "u-054",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "缩略地图",
+    "nameEn": null,
+    "category": "other",
+    "group": "other",
+    "unitId": 115,
+    "summary": "界面：缩略地图",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": "/media/ui/radar-frame-g12.png",
+    "imageNote": "游戏内界面图（雷达/缩略地图框体）",
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 115→0x4a1778）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 115→0x49e888）",
+      "分类依据: 名称「缩略地图」为界面元素"
+    ]
+  },
+  {
+    "id": "u-055",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "4x AG bombs",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-056",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "F-M waves",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-057",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "reinforcements",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-058",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "body",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-059",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "HE bombs",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-060",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "18x grenades",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-061",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "44mm",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-062",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "plasma",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-063",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "4x antiair rockets",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-064",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "Nuclear bomb",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-065",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "laser",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-066",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "atomic hyperblast",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-067",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "4x magma",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-068",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "2x laser",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-069",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "black hole mass",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-070",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "fusion lambda",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-071",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "2x R.X. napalm",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-072",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "R.X. napalm",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-073",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "napalm",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-074",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "armour piercing",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-075",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "2x 50lbs shell",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-076",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "50lbs shell",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-077",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "25lbs shell",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-078",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "6x antiair rockets",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-079",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "2x antiair rockets",
+    "nameEn": null,
+    "category": "other",
+    "group": "weapon",
+    "unitId": null,
+    "summary": "武器名称表条目（英文原文，游戏内未汉化）",
+    "description": null,
+    "weapons": [],
+    "stats": [],
+    "image": null,
+    "gallery": null,
+    "sources": [
+      "g1 State of War.exe .data 0x4a1798–0x4a18dc 武器名表（research/mining-g1-weapons-credits.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49e8a8–0x49e9ec 同表"
+    ]
+  },
+  {
+    "id": "u-080",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "星体炸弹风暴",
+    "nameEn": "Meteor Storm",
+    "category": "superweapon",
+    "group": "unit",
+    "unitId": 34,
+    "summary": "能毁掉整个地区的星体炸弹风暴",
+    "description": "这种极其危险的星体炸弹能毁掉整个地区。最好不要在你的基地附近使用。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/holo-meteor-g12.png",
+    "imageNote": "资料框绿色全息图",
+    "gallery": [],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 34→0x4a15f8）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 34→0x49e708）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 34→0x4a131c）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a2fa8；g2 InfoBox 字节表0x435a18→0x4a0098",
+      "分类依据: 说明「星体炸弹能毁掉整个地区」→大杀器"
+    ]
+  },
+  {
+    "id": "u-081",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "name": "罗根炸弹",
+    "nameEn": "Rogon Bomb",
+    "category": "superweapon",
+    "group": "unit",
+    "unitId": 46,
+    "summary": "可毁掉整个地区的罗根炸弹",
+    "description": "这种作战单位配有威力强大的罗根炮弹。罗根炸弹能够一次攻击许多作战单位。它能毁掉整个地区，非常利害。",
+    "weapons": [],
+    "stats": [],
+    "image": "/media/units/unit-radiation-g12.png",
+    "imageNote": "蓝军涂装游戏精灵（履带车体+顶部辐射圆鼓，与 InfoBox/7/N 全息图同形）",
+    "gallery": [
+      {
+        "image": "/media/units/holo-rogon-g12.png",
+        "label": "资料框绿色全息图（特种家族中唯一履带式全息图）"
+      }
+    ],
+    "sources": [
+      "g1 State of War.exe 名称函数 FUN_0042b180（case 46→0x4a1650）",
+      "g2 State of War - Warmonger.exe 名称函数字节表0x42a178→跳表0x42a090（ID 46→0x49e760）",
+      "g1 State of War.exe 英文名函数字节表0x42b108→跳表0x42b020（ID 46→0x4a1384）",
+      "g1 State of War.exe InfoBox FUN_00437130 case 分支→0x4a3348；g2 InfoBox 字节表0x435a18→0x4a0458",
+      "分类依据: 说明「罗根炸弹…毁掉整个地区」→大杀器"
+    ]
+  }
+]

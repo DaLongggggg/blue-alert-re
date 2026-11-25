@@ -1,0 +1,821 @@
+[
+ {
+  "file": "units/artillery-light-g12.png",
+  "game": "g1",
+  "source": "units\\1a_blue.ps6",
+  "block": 12,
+  "size": [
+   29,
+   27
+  ],
+  "unit": "轻型炮兵",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/artillery-medium-g12.png",
+  "game": "g1",
+  "source": "units\\2a_blue.ps6",
+  "block": 12,
+  "size": [
+   39,
+   32
+  ],
+  "unit": "中型炮兵",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/artillery-heavy-g12.png",
+  "game": "g1",
+  "source": "units\\3a_blue.ps6",
+  "block": 12,
+  "size": [
+   49,
+   35
+  ],
+  "unit": "重型炮兵",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/panzer-light-g12.png",
+  "game": "g1",
+  "source": "units\\1c_blue.ps6",
+  "block": 12,
+  "size": [
+   28,
+   22
+  ],
+  "unit": "轻型装甲坦克",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/panzer-medium-g12.png",
+  "game": "g1",
+  "source": "units\\2c_blue.ps6",
+  "block": 12,
+  "size": [
+   43,
+   32
+  ],
+  "unit": "中型装甲坦克",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/panzer-heavy-g12.png",
+  "game": "g1",
+  "source": "units\\3c_blue.ps6",
+  "block": 12,
+  "size": [
+   49,
+   40
+  ],
+  "unit": "重型装甲坦克",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/flamer-light-g12.png",
+  "game": "g1",
+  "source": "units\\1f_blue.ps6",
+  "block": 12,
+  "size": [
+   29,
+   22
+  ],
+  "unit": "轻型喷火器",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/flamer-medium-g12.png",
+  "game": "g1",
+  "source": "units\\2f_blue.ps6",
+  "block": 12,
+  "size": [
+   40,
+   30
+  ],
+  "unit": "中型喷火器",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/flamer-heavy-g12.png",
+  "game": "g1",
+  "source": "units\\3f_blue.ps6",
+  "block": 12,
+  "size": [
+   45,
+   35
+  ],
+  "unit": "重型喷火器",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/special-light-g12.png",
+  "game": "g1",
+  "source": "units\\1s_blue.ps6",
+  "block": 12,
+  "size": [
+   31,
+   26
+  ],
+  "unit": "轻型特派坦克",
+  "what": "单位图鉴主图（蓝军涂装，轮式）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/special-medium-g12.png",
+  "game": "g1",
+  "source": "units\\2s_blue.ps6",
+  "block": 12,
+  "size": [
+   40,
+   33
+  ],
+  "unit": "中型特派坦克",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/special-heavy-g12.png",
+  "game": "g1",
+  "source": "units\\3s_blue.ps6",
+  "block": 12,
+  "size": [
+   39,
+   32
+  ],
+  "unit": "重型特派坦克",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/antiair-light-g12.png",
+  "game": "g1",
+  "source": "units\\1aa_blue.ps6",
+  "block": 12,
+  "size": [
+   32,
+   20
+  ],
+  "unit": "轻型防空设施",
+  "what": "单位图鉴主图（蓝军涂装，双管）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/antiair-medium-g12.png",
+  "game": "g1",
+  "source": "units\\2aa_blue.ps6",
+  "block": 12,
+  "size": [
+   34,
+   24
+  ],
+  "unit": "中型防空设施",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/antiair-heavy-g12.png",
+  "game": "g1",
+  "source": "units\\3aa_blue.ps6",
+  "block": 12,
+  "size": [
+   38,
+   26
+  ],
+  "unit": "重型防空设施",
+  "what": "单位图鉴主图（蓝军涂装）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/tank-cougar-g12.png",
+  "game": "g1",
+  "source": "units\\cha_blue.ps6",
+  "block": 12,
+  "size": [
+   42,
+   36
+  ],
+  "unit": "美洲狮（Cougar，推测）",
+  "what": "特种单位主图；cha=美洲狮为排除法+体型推断",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/tank-gatling-g12.png",
+  "game": "g1",
+  "source": "units\\chb_blue.ps6",
+  "block": 12,
+  "size": [
+   51,
+   43
+  ],
+  "unit": "格林机关炮（Gatling，推测）",
+  "what": "特种单位主图；多管小炮形态与 Gatling 吻合",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/tank-kodiak-g12.png",
+  "game": "g1",
+  "source": "units\\chc_blue.ps6",
+  "block": 12,
+  "size": [
+   57,
+   45
+  ],
+  "unit": "科迪亚克（Kodiak，推测）",
+  "what": "特种单位主图；四履带最大战车",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/ufo-g12.png",
+  "game": "g1",
+  "source": "units\\chi1_blue.ps6",
+  "block": 12,
+  "size": [
+   52,
+   38
+  ],
+  "unit": "飞碟（UFO）",
+  "what": "特种单位主图；圆盘造型，exe 类名 CUfo",
+  "confidence": "high"
+ },
+ {
+  "file": "units/achilles-g12.png",
+  "game": "g1",
+  "source": "units\\chw_blue.ps6",
+  "block": 12,
+  "size": [
+   54,
+   62
+  ],
+  "unit": "阿基里斯（Achilles）",
+  "what": "特种单位主图；巨型步行机甲",
+  "confidence": "high"
+ },
+ {
+  "file": "units/unit-radiation-g12.png",
+  "game": "g1",
+  "source": "units\\chn_blue.ps6",
+  "block": 12,
+  "size": [
+   51,
+   33
+  ],
+  "unit": "（辐射标志特种车，名称待考：罗根炸弹载体/空对空复仇者/Advancer）",
+  "what": "特种单位主图；带辐射标志",
+  "confidence": "low"
+ },
+ {
+  "file": "units/unit-5w1-g12.png",
+  "game": "g1",
+  "source": "units\\5w1_blue.ps6",
+  "block": 12,
+  "size": [
+   65,
+   35
+  ],
+  "unit": "5W1（步行/气垫特种平台，名称待考）",
+  "what": "特种单位主图",
+  "confidence": "low"
+ },
+ {
+  "file": "units/unit-5w2-g12.png",
+  "game": "g1",
+  "source": "units\\5w2_blue.ps6",
+  "block": 6,
+  "size": [
+   52,
+   44
+  ],
+  "unit": "5W2（名称待考）",
+  "what": "特种单位主图",
+  "confidence": "low"
+ },
+ {
+  "file": "units/unit-5w3-g12.png",
+  "game": "g1",
+  "source": "units\\5w3_blue.ps6",
+  "block": 6,
+  "size": [
+   59,
+   55
+  ],
+  "unit": "5W3（名称待考）",
+  "what": "特种单位主图",
+  "confidence": "low"
+ },
+ {
+  "file": "units/unit-5w4-g12.png",
+  "game": "g1",
+  "source": "units\\5w4_blue.ps6",
+  "block": 12,
+  "size": [
+   60,
+   35
+  ],
+  "unit": "5W4（名称待考）",
+  "what": "特种单位主图",
+  "confidence": "low"
+ },
+ {
+  "file": "units/unit-5w5-g12.png",
+  "game": "g1",
+  "source": "units\\5w5_blue.ps6",
+  "block": 6,
+  "size": [
+   54,
+   57
+  ],
+  "unit": "5W5（名称待考）",
+  "what": "特种单位主图",
+  "confidence": "low"
+ },
+ {
+  "file": "units/carryall-g12.png",
+  "game": "g1",
+  "source": "specials\\carryall.ps6",
+  "block": 0,
+  "size": [
+   281,
+   194
+  ],
+  "unit": "运兵飞船（CarryAll）",
+  "what": "中性色运输机",
+  "confidence": "high"
+ },
+ {
+  "file": "units/bomber-g12.png",
+  "game": "g1",
+  "source": "specials\\bomber_l.ps6",
+  "block": 0,
+  "size": [
+   245,
+   197
+  ],
+  "unit": "轰炸机（Bomber Attack / 连环轰炸机）",
+  "what": "向左飞行的轰炸机",
+  "confidence": "high"
+ },
+ {
+  "file": "units/fighter-g12.png",
+  "game": "g1",
+  "source": "specials\\fighter.ps6",
+  "block": 0,
+  "size": [
+   187,
+   73
+  ],
+  "unit": "战斗机（Fighter Assault）",
+  "what": "战斗机小图",
+  "confidence": "high"
+ },
+ {
+  "file": "units/tripler-g12.png",
+  "game": "g1",
+  "source": "specials\\tripler.ps6",
+  "block": 0,
+  "size": [
+   253,
+   248
+  ],
+  "unit": "连环轰炸机（Tripler Strafe）",
+  "what": "三发轰炸机",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/hq-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_base.ps6",
+  "block": 1,
+  "size": [
+   114,
+   137
+  ],
+  "unit": "总部（Headquarters）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/factory-light-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_light.ps6",
+  "block": 2,
+  "size": [
+   95,
+   92
+  ],
+  "unit": "轻型工厂（Light Factory）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/factory-medium-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_med.ps6",
+  "block": 2,
+  "size": [
+   124,
+   127
+  ],
+  "unit": "中型工厂（Medium Factory）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/factory-heavy-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_heavy.ps6",
+  "block": 2,
+  "size": [
+   111,
+   137
+  ],
+  "unit": "重型工厂（Heavy Factory）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/airfactory-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_air.ps6",
+  "block": 4,
+  "size": [
+   86,
+   120
+  ],
+  "unit": "飞机生产基地（Air Navigator）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/walkerfactory-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_walker.ps6",
+  "block": 3,
+  "size": [
+   123,
+   89
+  ],
+  "unit": "机器人工厂（Walker Factory）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/researchlab-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_rlab.ps6",
+  "block": 2,
+  "size": [
+   96,
+   82
+  ],
+  "unit": "研究实验室（Research Lab；中文版称太阳能搜集器？）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/goldmine-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_mine.ps6",
+  "block": 2,
+  "size": [
+   96,
+   100
+  ],
+  "unit": "金矿（Gold Mine）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/windtrap-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\_wind.ps6",
+  "block": 2,
+  "size": [
+   75,
+   110
+  ],
+  "unit": "风能搜集器（WindTrap）",
+  "what": "蓝军建筑（建成态）",
+  "confidence": "high"
+ },
+ {
+  "file": "units/sentry-01-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\sentry01.ps6",
+  "block": 4,
+  "size": [
+   22,
+   20
+  ],
+  "unit": "哨塔 1（Top Sentry，型号待考）",
+  "what": "蓝军炮塔（建成态）",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/sentry-02-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\sentry02.ps6",
+  "block": 3,
+  "size": [
+   30,
+   27
+  ],
+  "unit": "哨塔 2（Top Sentry，型号待考）",
+  "what": "蓝军炮塔（建成态）",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/sentry-03-g12.png",
+  "game": "g1",
+  "source": "builds\\blue\\sentry03.ps6",
+  "block": 3,
+  "size": [
+   28,
+   36
+  ],
+  "unit": "哨塔 3（Top Sentry，型号待考）",
+  "what": "蓝军炮塔（建成态）",
+  "confidence": "medium"
+ },
+ {
+  "file": "units/turret-1-g12.png",
+  "game": "g1",
+  "source": "units\\tur_01_blue.ps6",
+  "block": 12,
+  "size": [
+   49,
+   36
+  ],
+  "unit": "炮塔单位 1（Top Sentry 系列之一，型号待考）",
+  "what": "多管旋转炮塔",
+  "confidence": "low"
+ },
+ {
+  "file": "units/turret-2-g12.png",
+  "game": "g1",
+  "source": "units\\tur_02_blue.ps6",
+  "block": 12,
+  "size": [
+   32,
+   25
+  ],
+  "unit": "炮塔单位 2（型号待考）",
+  "what": "单管炮塔",
+  "confidence": "low"
+ },
+ {
+  "file": "units/turret-3-g12.png",
+  "game": "g1",
+  "source": "units\\tur_03_blue.ps6",
+  "block": 12,
+  "size": [
+   36,
+   33
+  ],
+  "unit": "炮塔单位 3（型号待考）",
+  "what": "双管炮塔",
+  "confidence": "low"
+ },
+ {
+  "file": "units/turret-5-g12.png",
+  "game": "g1",
+  "source": "units\\tur_05_blue.ps6",
+  "block": 12,
+  "size": [
+   42,
+   31
+  ],
+  "unit": "炮塔单位 5（型号待考）",
+  "what": "铆接装甲炮塔",
+  "confidence": "low"
+ },
+ {
+  "file": "ui/menu-btn-newgame-g12.png",
+  "game": "g1",
+  "source": "Menu/001_buttons.tsp",
+  "block": 0,
+  "size": [
+   146,
+   53
+  ],
+  "unit": "主菜单：新游戏",
+  "what": "按钮（常态）",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/menu-btn-loadgame-g12.png",
+  "game": "g1",
+  "source": "Menu/001_buttons.tsp",
+  "block": 1,
+  "size": [
+   189,
+   54
+  ],
+  "unit": "主菜单：读取游戏",
+  "what": "按钮（常态）",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/menu-btn-tutorial-g12.png",
+  "game": "g1",
+  "source": "Menu/001_buttons.tsp",
+  "block": 2,
+  "size": [
+   200,
+   57
+  ],
+  "unit": "主菜单：教学模式",
+  "what": "按钮（常态）",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/menu-btn-multiplayer-g12.png",
+  "game": "g1",
+  "source": "Menu/001_buttons.tsp",
+  "block": 3,
+  "size": [
+   187,
+   55
+  ],
+  "unit": "主菜单：多人游戏",
+  "what": "按钮（常态）",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/menu-btn-options-g12.png",
+  "game": "g1",
+  "source": "Menu/001_buttons.tsp",
+  "block": 4,
+  "size": [
+   99,
+   55
+  ],
+  "unit": "主菜单：选项",
+  "what": "按钮（常态）",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/menu-btn-exit-g12.png",
+  "game": "g1",
+  "source": "Menu/001_buttons.tsp",
+  "block": 5,
+  "size": [
+   190,
+   53
+  ],
+  "unit": "主菜单：退出游戏",
+  "what": "按钮（常态）",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/ingame-menu-continue-g12.png",
+  "game": "g1",
+  "source": "menu\\ingame.ps6",
+  "block": 1,
+  "size": [
+   87,
+   42
+  ],
+  "unit": "游戏内菜单：继续",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/ingame-menu-loadgame-g12.png",
+  "game": "g1",
+  "source": "menu\\ingame.ps6",
+  "block": 2,
+  "size": [
+   151,
+   43
+  ],
+  "unit": "游戏内菜单：读取游戏",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/ingame-menu-savegame-g12.png",
+  "game": "g1",
+  "source": "menu\\ingame.ps6",
+  "block": 3,
+  "size": [
+   151,
+   43
+  ],
+  "unit": "游戏内菜单：保存游戏",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/ingame-menu-options-g12.png",
+  "game": "g1",
+  "source": "menu\\ingame.ps6",
+  "block": 4,
+  "size": [
+   80,
+   40
+  ],
+  "unit": "游戏内菜单：选项",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/ingame-menu-restart-g12.png",
+  "game": "g1",
+  "source": "menu\\ingame.ps6",
+  "block": 5,
+  "size": [
+   148,
+   43
+  ],
+  "unit": "游戏内菜单：重新开始",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/ingame-menu-mainmenu-g12.png",
+  "game": "g1",
+  "source": "menu\\ingame.ps6",
+  "block": 6,
+  "size": [
+   115,
+   41
+  ],
+  "unit": "游戏内菜单：主菜单",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/options-cancel-g12.png",
+  "game": "g1",
+  "source": "Menu/options.tsp",
+  "block": 0,
+  "size": [
+   78,
+   41
+  ],
+  "unit": "设置界面：取消",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/options-ok-g12.png",
+  "game": "g1",
+  "source": "Menu/options.tsp",
+  "block": 1,
+  "size": [
+   74,
+   42
+  ],
+  "unit": "设置界面：确定",
+  "what": "按钮",
+  "confidence": "high"
+ },
+ {
+  "file": "ui/winlose-screen-g12.png",
+  "game": "g1",
+  "source": "Extras/WinLoose.tsp",
+  "block": 0,
+  "size": [
+   300,
+   76
+  ],
+  "unit": "胜利/失利画面",
+  "what": "整屏背景 640x480",
+  "confidence": "medium"
+ },
+ {
+  "file": "ui/cursor-g12.png",
+  "game": "g1",
+  "source": "cursor.ps6",
+  "block": 0,
+  "size": [
+   25,
+   19
+  ],
+  "unit": "游戏光标",
+  "what": "鼠标指针首帧",
+  "confidence": "medium"
+ },
+ {
+  "file": "ui/radar-frame-g12.png",
+  "game": "g1",
+  "source": "extras\\radar.ps6",
+  "block": 0,
+  "size": [
+   76,
+   76
+  ],
+  "unit": "缩略地图（雷达）框体",
+  "what": "游戏内小地图 UI",
+  "confidence": "medium"
+ }
+]

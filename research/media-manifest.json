@@ -1,0 +1,3072 @@
+[
+ {
+  "output": "missions/m00-g12.jpg",
+  "source": [
+   "g1:M00.srf",
+   "g2:M00.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 571151,
+  "sha256": "e9ba36bbbd3f85a21d8063b235e2303979d901cd4739d41002c2989d94c15358",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m00-srfa-g12-1.jpg",
+  "source": [
+   "g1:M00.srfa",
+   "g2:M00.srfa"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 359346,
+  "sha256": "2f34597fe4eb793c1ff1abd7eb740853f5fe11040cf9c6577398f9a2e21c9947",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m01-g1-cover.jpg",
+  "source": [
+   "g1:M01.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 8912,
+  "sha256": "254b644d7355e23b2403da5de7de3cad52e66686eb183575d136354f347081d7",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m01-g1.jpg",
+  "source": [
+   "g1:M01.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 525777,
+  "sha256": "fced699d412e4aff845333ef0245985aae6910cc9a8284ad40a047ea1efd161b",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m01-g1.mp4",
+  "source": [
+   "g1:M01.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1148608,
+  "sha256": "c66d5ca8e47682252d65164d3bb0106fc2147d8005049aa1736654d6c5b128ec",
+  "width": 320,
+  "height": 208,
+  "duration": 12.9
+ },
+ {
+  "output": "missions/m01-g2-cover.jpg",
+  "source": [
+   "g2:M01.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 35104,
+  "sha256": "8d66eb066fa92944fc681187c6e032f80d5264f8ef180c924b5d5fb469d08761",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m01-g2.jpg",
+  "source": [
+   "g2:M01.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 512481,
+  "sha256": "5736a187140083884cc3cdbe729452a2a1a5a041e2c0079b0f5750ab161c91b8",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m01-g2.mp4",
+  "source": [
+   "g2:M01.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 2654101,
+  "sha256": "b679f04b150e8623e84613091b04a17fe0d1e7a15c151e3496da3a0aa9b770a2",
+  "width": 768,
+  "height": 432,
+  "duration": 10.98
+ },
+ {
+  "output": "missions/m01-srfa-g1-1.jpg",
+  "source": [
+   "g1:M01.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 331827,
+  "sha256": "3ff8fba34d5c1c4f6248e1b7c878906e61cc18262127753f488632812a4733c9",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m01-srfa-g2-1.jpg",
+  "source": [
+   "g2:m01.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 313285,
+  "sha256": "daf8968c3cd67e46c8a4db18ab1959bcca56cb2712e1e4995548732e3130f58f",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m02-g1-cover.jpg",
+  "source": [
+   "g1:M02.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 19222,
+  "sha256": "7cdaf7c5ce61821326be4a051b905381087c2a7b3cf4e7a551a93d5ee88402d0",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m02-g1.jpg",
+  "source": [
+   "g1:M02.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 539353,
+  "sha256": "25d873e9d9c2a7646613db34d2af79a662f4f92b8280b3931d8308286abc9f19",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m02-g1.mp4",
+  "source": [
+   "g1:M02.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 746104,
+  "sha256": "922754aedbc4e405211eb3e93fba10455448b08d75d9bc31bf50ea12e8bad48c",
+  "width": 320,
+  "height": 208,
+  "duration": 10.66
+ },
+ {
+  "output": "missions/m02-g2-cover.jpg",
+  "source": [
+   "g2:M02.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 70511,
+  "sha256": "8f6cf34b1ea583be0d5438400c27358ff64981ecc15124e0b3810faa1abbfe8c",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m02-g2.jpg",
+  "source": [
+   "g2:M02.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 463466,
+  "sha256": "0e1cc537d837710b7bca19742c276b397ee7cc7f8951936dfe45590157df93b9",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m02-g2.mp4",
+  "source": [
+   "g2:M02.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 2975750,
+  "sha256": "9c745b77b7f094403b65f8b57db146f067f592dfebddc0aac04f7596be32c74a",
+  "width": 768,
+  "height": 432,
+  "duration": 12.46
+ },
+ {
+  "output": "missions/m02-srfa-g1-1.jpg",
+  "source": [
+   "g1:M02.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 350356,
+  "sha256": "ba80fb65e8d87e9b88d32e13543f1df2c14c973f7c0258a34673e13bf0bfff6f",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m02-srfa-g2-1.jpg",
+  "source": [
+   "g2:m02.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 453648,
+  "sha256": "dd8a5926d82f0db266fa8f604c48dfe057296962985db7382f86e917823f8229",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m03-g1-cover.jpg",
+  "source": [
+   "g1:M03.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 18778,
+  "sha256": "3fb6331e27652b654bad190469c20510b505fd0d6ca528c3146b9471de5765f7",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m03-g1.jpg",
+  "source": [
+   "g1:M03.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 408964,
+  "sha256": "52a450ef7c13d8f9ec553e3415eb5fab493a78e30697a396059002dc7e6524d2",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m03-g1.mp4",
+  "source": [
+   "g1:M03.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1264878,
+  "sha256": "11de81b558a73dfa783d1bc2bbd48d8183c2d3b8a126b98de2e516260a278349",
+  "width": 320,
+  "height": 208,
+  "duration": 16.78
+ },
+ {
+  "output": "missions/m03-g2-cover.jpg",
+  "source": [
+   "g2:M03.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 47274,
+  "sha256": "4ee63e9b8d451dd46c752369cd12cbeba14fff64e91a16068d2cefcfbc03f3d9",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m03-g2.jpg",
+  "source": [
+   "g2:m03.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 379998,
+  "sha256": "a1294bac355db10695ae1129531b1fa95e484a91cabcfcb3f6ba52815d78538c",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m03-g2.mp4",
+  "source": [
+   "g2:M03.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 4938283,
+  "sha256": "a9cb5f8efd2145b6d681ec6f9189743dc9a21233f4fe0bfcaada0e3b78b3b780",
+  "width": 768,
+  "height": 432,
+  "duration": 17.78
+ },
+ {
+  "output": "missions/m03-srfa-g1-1.jpg",
+  "source": [
+   "g1:M03.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 398065,
+  "sha256": "f39204a25000b1aba894806257d03680c5cc8a2a57b0a4330b98d5ea8857ce23",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m03-srfa-g2-1.jpg",
+  "source": [
+   "g2:m03.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 370867,
+  "sha256": "05084d86652ce2482ab7a90dd57ac46f1c8cd51f109a4efb528e69d92ecbcf0d",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m04-g1-cover.jpg",
+  "source": [
+   "g1:M04.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 15855,
+  "sha256": "e52f46d3e9891f57e148e9092105cce8fd18795fd482bafe201445c1b3aff2df",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m04-g1.jpg",
+  "source": [
+   "g1:M04.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 454693,
+  "sha256": "be4cad16d25e8029c1c74cfe9e73aa14e9b20d73c73166ea3d10ce303e944007",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m04-g1.mp4",
+  "source": [
+   "g1:M04.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 504293,
+  "sha256": "5144e0a760a7f7c537f6a20a58071b7ae88b8851a3bc182e5096532826292cb2",
+  "width": 320,
+  "height": 208,
+  "duration": 9.98
+ },
+ {
+  "output": "missions/m04-g2-cover.jpg",
+  "source": [
+   "g2:M04.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 69000,
+  "sha256": "96ccc5dcbe82888a2b3f3b0018ede8f14ad968a8b4559267d67975b58f04c3c4",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m04-g2.jpg",
+  "source": [
+   "g2:M04.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 536013,
+  "sha256": "87a5094e961cd9c33a480db920548cab09da488c416e0867965f707b4605308b",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m04-g2.mp4",
+  "source": [
+   "g2:M04.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 3625132,
+  "sha256": "eb44e6761ee3ae2a35723f0de854b029b3f8ba7aab1fa9fd5727990cc9b6a87f",
+  "width": 768,
+  "height": 432,
+  "duration": 13.46
+ },
+ {
+  "output": "missions/m04-srfa-g1-1.jpg",
+  "source": [
+   "g1:M04.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 445972,
+  "sha256": "69f363117aa0b0ac4c902e857bbe4165a0bc1316fd50c3f3dda4d7b37cb8d496",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m04-srfa-g2-1.jpg",
+  "source": [
+   "g2:m04.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 338815,
+  "sha256": "1e1114092bb60ef54fe0155eab64dfb787f66e909e3fb65ddd601368af2de3aa",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m05-g1-cover.jpg",
+  "source": [
+   "g1:M05.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 17183,
+  "sha256": "382cf7b424689e3f5ec4289c0937ad6aeeac1ab8c6c145419e443ec700cd1aad",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m05-g1.jpg",
+  "source": [
+   "g1:M05.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 428779,
+  "sha256": "85a8c687261f79125a3b11af9cb43007eda7b35b16a50dadb7272f98cd7a2cf5",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m05-g1.mp4",
+  "source": [
+   "g1:M05.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1436791,
+  "sha256": "c95468b8ead6dc8478f71e84e7ffcccc9a66c02a9005e83653cbb46ff6d5cdd3",
+  "width": 320,
+  "height": 208,
+  "duration": 19.74
+ },
+ {
+  "output": "missions/m05-srfa-g1-1.jpg",
+  "source": [
+   "g1:M05.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 415932,
+  "sha256": "b506282a1852ca7189729cc5962139936d72bb6f7f24e86df3b00e23904d570f",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m06-g1-cover.jpg",
+  "source": [
+   "g1:M06.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 17678,
+  "sha256": "84d05e56377e6e544f51ce2baddc31672b1c0356b42a955a5d9069b9228e246e",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m06-g1.jpg",
+  "source": [
+   "g1:M06.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 425787,
+  "sha256": "2dc199ab56b40d3dbdf170b0e54413ecc462958b983695db328a42a3d35bc1a6",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m06-g1.mp4",
+  "source": [
+   "g1:M06.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 857763,
+  "sha256": "ce21d9f6dc67fb6dfa8171e24f9cffbc0d173d185e58658697e9841209e5e19d",
+  "width": 320,
+  "height": 208,
+  "duration": 10.66
+ },
+ {
+  "output": "missions/m06-g2-cover.jpg",
+  "source": [
+   "g2:M06.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 23506,
+  "sha256": "fa0d2bb5d84ec60d8b2dcbd0e27c9cacfb113bfcfe675bd0408da23ab3b2c1de",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m06-g2.jpg",
+  "source": [
+   "g2:M06.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 433834,
+  "sha256": "6867e8d103551f46f4b694306c5d67c05f0448623f31c02de7e872ca9626b060",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m06-g2.mp4",
+  "source": [
+   "g2:M06.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 1744532,
+  "sha256": "a1f271eb19cb0bc03f90b363549265b62ec9192a3f61a9a6261520450389a066",
+  "width": 768,
+  "height": 432,
+  "duration": 10.98
+ },
+ {
+  "output": "missions/m06-srfa-g1-1.jpg",
+  "source": [
+   "g1:M06.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 275713,
+  "sha256": "05c5b67fbbaeb8ac74a606c0429181e35983ce07db856c6ff8e43663244894ab",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m06-srfa-g2-1.jpg",
+  "source": [
+   "g2:m06.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 279261,
+  "sha256": "96f35863368c578cc2ff15abe141cb5529e89cd480d9dad95bb50f62d880226c",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m07-g1-cover.jpg",
+  "source": [
+   "g1:M07.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 15732,
+  "sha256": "d45bc161d2b06053d166c932c547d52d785a04caccfb11a0a44eaeaf9c60cf48",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m07-g1.jpg",
+  "source": [
+   "g1:M07.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 444788,
+  "sha256": "231f176d827221bbd77a9674d268f32532718aa3d02feed5b05fd53b97c2857b",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m07-g1.mp4",
+  "source": [
+   "g1:M07.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 811888,
+  "sha256": "c47690f331a458d27c39c825c36f054f036765ca8994bded912f823d6049b326",
+  "width": 320,
+  "height": 208,
+  "duration": 14.54
+ },
+ {
+  "output": "missions/m07-g2-cover.jpg",
+  "source": [
+   "g2:M07.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 70501,
+  "sha256": "6c375dc7b7ea6063174648dea81a82657031a5cce406d07ca7b2062720ef1bbf",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m07-g2.jpg",
+  "source": [
+   "g2:M07.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 427080,
+  "sha256": "2fb98d81b1f4750ac51e6133e3c4fd4f2e22bbe0096392058a8e27d1a300fcfb",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m07-g2.mp4",
+  "source": [
+   "g2:M07.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 5966086,
+  "sha256": "841293878d6f11543a8559526e409395c20f033f7f4c7ce4cf8c6fd783a4da5b",
+  "width": 768,
+  "height": 432,
+  "duration": 23.98
+ },
+ {
+  "output": "missions/m07-srfa-g1-1.jpg",
+  "source": [
+   "g1:M07.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 436920,
+  "sha256": "dce0246d9d3e89513e2a92e33c2fe4049dd5d3cb653694579d1942b49babe445",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m07-srfa-g2-1.jpg",
+  "source": [
+   "g2:m07.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 414506,
+  "sha256": "33bb93bfa8be9796b48ead5ef45789d583be959d8432106bffa4f22844c25951",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m08-g1-cover.jpg",
+  "source": [
+   "g1:M08.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 14189,
+  "sha256": "d5229521334ae007b2e0c9e48deb7816df98772eed525c4406ced708a2f77c03",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m08-g1.jpg",
+  "source": [
+   "g1:M08.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 429946,
+  "sha256": "1888f1efc9f50e7b9835dae1714ba8087fad9e4bd573606e8af9624270f8dee3",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m08-g1.mp4",
+  "source": [
+   "g1:M08.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1409171,
+  "sha256": "308c3dfe22d32ce5a3e1db371d0ef675ab9484e275b6f44387bb3534adcb0ee4",
+  "width": 320,
+  "height": 208,
+  "duration": 19.06
+ },
+ {
+  "output": "missions/m08-srfa-g1-1.jpg",
+  "source": [
+   "g1:M08.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 417389,
+  "sha256": "34008d2f6240db13f1850127e44a76f8944ff9f08903485f6555c9a82f9e3042",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m09-g1-cover.jpg",
+  "source": [
+   "g1:M09.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 7984,
+  "sha256": "126ce11b0a6e5a4412fa6219a2d73cb497c9fc7f3d8483eeafbce45d147d4d9c",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m09-g1.jpg",
+  "source": [
+   "g1:M09.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 414673,
+  "sha256": "96be3f7ce2bf41a88e9ecaca25f4de5cbc0917eada7d8c4c4832eaa3a4243409",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m09-g1.mp4",
+  "source": [
+   "g1:M09.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 688942,
+  "sha256": "104ff75dd1a023cc90e9af6009504ac7751fb128107fd9c7f9591f6f1a83829c",
+  "width": 320,
+  "height": 208,
+  "duration": 11.98
+ },
+ {
+  "output": "missions/m09-srfa-g1-1.jpg",
+  "source": [
+   "g1:m09.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 266647,
+  "sha256": "2abd0dedb93f0a21bc511c18e90ac7b84cbe5981d8ebd858503fb36c8284144d",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m10-g1-cover.jpg",
+  "source": [
+   "g1:M10.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 10578,
+  "sha256": "1d3f0c7aaa51b47555ed3b54bf836584a910efc0151567d14094816c439837cd",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m10-g1.jpg",
+  "source": [
+   "g1:M10.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 391406,
+  "sha256": "bde717c47eed0c5da33641ed9079a1cd55d6e64502db4051ee595aabd7fff06c",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m10-g1.mp4",
+  "source": [
+   "g1:M10.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 885431,
+  "sha256": "a8e9170e3437942562e791ae5647942dd230cabe9764118a23145af3f6f57fe3",
+  "width": 320,
+  "height": 208,
+  "duration": 8.67
+ },
+ {
+  "output": "missions/m10-srfa-g1-1.jpg",
+  "source": [
+   "g1:M10.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 382430,
+  "sha256": "72b8f6931f9a4a79c7246c92c7566c7a580cc7f7076deba831d4f312b4b952c1",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m11-g1-cover.jpg",
+  "source": [
+   "g1:M11.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 24181,
+  "sha256": "bdc48292f6dce2f6606303fda10a0624f0bf11a6f312a6567ed7b55d30c46be8",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m11-g1.jpg",
+  "source": [
+   "g1:M11.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 578642,
+  "sha256": "9ee1beaa7e35ff627d82081d01db6c60049f871cd5ded6d0bae074e60be2f5ac",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m11-g1.mp4",
+  "source": [
+   "g1:M11.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 946464,
+  "sha256": "ccadd2d2d987b0a8825eefcf8446adddd5d9171993af336992f2be235ca1114d",
+  "width": 320,
+  "height": 208,
+  "duration": 11.86
+ },
+ {
+  "output": "missions/m11-g2-cover.jpg",
+  "source": [
+   "g2:M11.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 78906,
+  "sha256": "696b104cf1b527d07e6a85a05a9066bd6fc03a46a244f634881f86a93fb20a11",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m11-g2.jpg",
+  "source": [
+   "g2:M11.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 583594,
+  "sha256": "8a34ee41485ee19dfbf93cac6b4125807d49e3070638fd9bbf089604ba2ec2f3",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m11-g2.mp4",
+  "source": [
+   "g2:M11.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 2650186,
+  "sha256": "8b0a8f8595bb06570b23c2862812ac8c8839c1ea674413aef84a341b82bf75a1",
+  "width": 768,
+  "height": 432,
+  "duration": 11.42
+ },
+ {
+  "output": "missions/m11-srfa-g1-1.jpg",
+  "source": [
+   "g1:M11.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 375206,
+  "sha256": "390ea5aa77adeceac59a5720a36126a10194361967679961761f21a00933f6b1",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m11-srfa-g2-1.jpg",
+  "source": [
+   "g2:m11.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 368157,
+  "sha256": "616157ff8ac7080b93c849d7586b0b957c9477d3227bf1f0ff91d37575eef222",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m12-g1-cover.jpg",
+  "source": [
+   "g1:M12.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 16662,
+  "sha256": "333aea384759a3b4168ec87f13977ddfa2e1b23bcbdc02c4465e05683bb7ba84",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m12-g1.jpg",
+  "source": [
+   "g1:M12.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 481826,
+  "sha256": "f070e7e8addc9643aae27307c995a23fe0c33c99cc1e76098648c5662ee16925",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m12-g1.mp4",
+  "source": [
+   "g1:M12.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 893424,
+  "sha256": "b8fc9638b255a13458934d135858a6ac864321a03110c0fe2c1b12aa456abbc7",
+  "width": 320,
+  "height": 208,
+  "duration": 12.18
+ },
+ {
+  "output": "missions/m12-g2-cover.jpg",
+  "source": [
+   "g2:M12.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 54497,
+  "sha256": "7cace6a42b006c36f205afd0ef98876304b22507e0c1d141c81d2d303aeed44f",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m12-g2.jpg",
+  "source": [
+   "g2:m12.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 382436,
+  "sha256": "c3bef55c3fbc034f6937de2f13c9ada4dbe4c5dedf63e03f4d74180ac82cfe10",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m12-g2.mp4",
+  "source": [
+   "g2:M12.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 1858936,
+  "sha256": "ddec6d6acd8db3ddf26df4a46a194dc7332674547f939dd49a9639cce6417938",
+  "width": 768,
+  "height": 432,
+  "duration": 9.7
+ },
+ {
+  "output": "missions/m12-srfa-g1-1.jpg",
+  "source": [
+   "g1:M12.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 303075,
+  "sha256": "331f9ab654e7f94c0bd4804bdc623bbc0981515797a48d482b383e5e6fa2cbf4",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m12-srfa-g2-1.jpg",
+  "source": [
+   "g2:m12.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 372996,
+  "sha256": "3ae54dd51baa6c160f07fba6cc9fa746065084f15b8ef491253a9a4a70f234a7",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m13-g1-cover.jpg",
+  "source": [
+   "g1:M13.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 11580,
+  "sha256": "82c837398c8c7f1477136ed0fff373593ff655131c4717e29a0dce6fd3f55125",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m13-g1.jpg",
+  "source": [
+   "g1:M13.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 349164,
+  "sha256": "d3a22cc3153c91865f86a979590bf472939b62605f9f0afd3ab308fdadc647e8",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m13-g1.mp4",
+  "source": [
+   "g1:M13.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1147427,
+  "sha256": "19f9bd274489efa184ea11b83a1f9a8250edeffa00d51a900c4167a56bed31d8",
+  "width": 320,
+  "height": 208,
+  "duration": 20.14
+ },
+ {
+  "output": "missions/m13-srfa-g1-1.jpg",
+  "source": [
+   "g1:M13.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 341903,
+  "sha256": "fa456de49849623a76bc3f221560eeb88ca06053a0b4dd27a807bdd814b831a6",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m14-g1-cover.jpg",
+  "source": [
+   "g1:M14.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 10640,
+  "sha256": "d11d87ae9caa7a429d1b684e3db3c1beb289f0261f71c5e7744c80c4d8544390",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m14-g1.jpg",
+  "source": [
+   "g1:M14.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 511666,
+  "sha256": "cbf4f7b6841d956654fea3ee8a4581db08cb459d36b7b6b0fbf404003a178402",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m14-g1.mp4",
+  "source": [
+   "g1:M14.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 959453,
+  "sha256": "86f06a099103f56e099378165550018791cf150142274bf86d133188b631056d",
+  "width": 320,
+  "height": 208,
+  "duration": 11.94
+ },
+ {
+  "output": "missions/m14-srfa-g1-1.jpg",
+  "source": [
+   "g1:M14.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 320538,
+  "sha256": "cd2f63dcc624c920f1515bab572b6d3f5f45b41f0ff64679f1ee1a87754b6c89",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m15-g1-cover.jpg",
+  "source": [
+   "g1:M15.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 20203,
+  "sha256": "5960024ec72a6616cd5b06165f863eb87f9ec5b7c7d25cf0b741d83fbd219e02",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m15-g1.jpg",
+  "source": [
+   "g1:M15.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 464819,
+  "sha256": "2d97242cea36b5a122f1424dcde63009f2a94960e313d10341a36e34e4ba4f0a",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m15-g1.mp4",
+  "source": [
+   "g1:M15.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 935037,
+  "sha256": "e2c1a40b17fe51c9fc82abed71e7f8d21754200f5c95126eb13d249d1fcd7a51",
+  "width": 320,
+  "height": 208,
+  "duration": 9.9
+ },
+ {
+  "output": "missions/m15-g2-cover.jpg",
+  "source": [
+   "g2:M15.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 44076,
+  "sha256": "fdfbfce182cd64a55dcbf1f75cb02e8a754663c200b16938aa1384770bdc6984",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m15-g2.jpg",
+  "source": [
+   "g2:M15.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 443524,
+  "sha256": "61afa7cc81399ac145f1c2a69f9ebc6c33c48e487aad6b208a556f3147f81931",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m15-g2.mp4",
+  "source": [
+   "g2:M15.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 5008325,
+  "sha256": "c6168970c986d258cc75f21ca4b0e436618cc5e0c16020ae136fc4bf55f0ec65",
+  "width": 768,
+  "height": 432,
+  "duration": 16.61
+ },
+ {
+  "output": "missions/m15-srfa-g1-1.jpg",
+  "source": [
+   "g1:M15.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 455035,
+  "sha256": "1761c4e05155765eb4164668ea163769475287221d4ccc4eb206a5d6b8066675",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m15-srfa-g2-1.jpg",
+  "source": [
+   "g2:m15.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 434146,
+  "sha256": "5c373a1cb75bc45949d41888c0945bf06b7274caf3a281ecc4540112e50836f2",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m16-g1-cover.jpg",
+  "source": [
+   "g1:M16.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 8398,
+  "sha256": "642375b7ffea7ef55b33752423c432367d0f43ae0742686809fbddb34a24e596",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m16-g1.jpg",
+  "source": [
+   "g1:M16.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 409764,
+  "sha256": "52c91cc0f675a8ecc8e2a489c4d7799eef1b7e6df33135c492ac4caeb8f30abe",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m16-g1.mp4",
+  "source": [
+   "g1:M16.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 848514,
+  "sha256": "32002170612d6e72918920b824af4256b1a803504ac6c8024ba668129f2e8530",
+  "width": 320,
+  "height": 208,
+  "duration": 14.66
+ },
+ {
+  "output": "missions/m16-srfa-g1-1.jpg",
+  "source": [
+   "g1:M16.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 266978,
+  "sha256": "a6544948103270599644d8c1fe7e2052297d7a370fda1749a929804f9a8decdc",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m17-g1-cover.jpg",
+  "source": [
+   "g1:M17.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 16797,
+  "sha256": "ea989877ca7fd93625ab71a335e22febd2086155bd3833bbfe9e1766df1c1171",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m17-g1.jpg",
+  "source": [
+   "g1:M17.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 389024,
+  "sha256": "c929f901e7f6c99784349ecf7fecd24304cdb09ae08dc14d121a0fb4dd050375",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m17-g1.mp4",
+  "source": [
+   "g1:M17.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1662483,
+  "sha256": "9f9a9390897125509eb17128099b70c7ed529af5166137b2ac8a79d31fab7a14",
+  "width": 320,
+  "height": 208,
+  "duration": 23.1
+ },
+ {
+  "output": "missions/m17-srfa-g1-1.jpg",
+  "source": [
+   "g1:M17.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 377780,
+  "sha256": "097b35a7595c97b5d10c57c9ecd8a480ff951b99608a515582edba295277142c",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m18-g1-cover.jpg",
+  "source": [
+   "g1:M18.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 13025,
+  "sha256": "d69515cad789af7ae7011097f442621527870e9cf5b90e266d377c1d63602833",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m18-g1.jpg",
+  "source": [
+   "g1:M18.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 395251,
+  "sha256": "fa3ada464e54bcd66cf8382fe27c4cfa4afd56075f1db257069691e66137f5ee",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m18-g1.mp4",
+  "source": [
+   "g1:M18.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1266883,
+  "sha256": "5dcd257216962756546225402ea2fd5ec17466631fc3762a75d7c177c24840c1",
+  "width": 320,
+  "height": 208,
+  "duration": 14.14
+ },
+ {
+  "output": "missions/m18-srfa-g1-1.jpg",
+  "source": [
+   "g1:M18.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 384842,
+  "sha256": "6b9f1d0a927d6ee125631d032b674ab12495d7d16bc3c140d513d723c993b130",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m19-g1-cover.jpg",
+  "source": [
+   "g1:M19.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 17137,
+  "sha256": "772a373cf06696b5e7f37efd8552b6f7fc73d00c0c506a83f9f91d4b9e85a880",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m19-g1.jpg",
+  "source": [
+   "g1:M19.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 465350,
+  "sha256": "7cf381e92c5e817ee17e369bf7a859ad56a24091a519b89fa21318fe90221b43",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m19-g1.mp4",
+  "source": [
+   "g1:M19.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1164290,
+  "sha256": "9d90c8ce47c8259c46e7406838fb10f30c032aeccd21ef3f214e60551eb8465b",
+  "width": 320,
+  "height": 208,
+  "duration": 11.86
+ },
+ {
+  "output": "missions/m19-srfa-g1-1.jpg",
+  "source": [
+   "g1:M19.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 455662,
+  "sha256": "e5f905332d7af57bc522a084002079671ef30cea82f448e8a46f42a35aa45210",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m20-g1-cover.jpg",
+  "source": [
+   "g1:M20.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 6983,
+  "sha256": "2ca02a906863aee51a1cfadad53061b111d60d4b9ef56d5159bd713ae95d4056",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m20-g1.jpg",
+  "source": [
+   "g1:M20.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 418698,
+  "sha256": "2385736f8afaf04142e838d8cd7304c365a8aab693ddb87f8aa51c47f213eba7",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m20-g1.mp4",
+  "source": [
+   "g1:M20.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 606763,
+  "sha256": "e79b516401e44e98672e347a921f066add4be182d2c49aa2f7cd40c05a5be6a1",
+  "width": 320,
+  "height": 208,
+  "duration": 12.88
+ },
+ {
+  "output": "missions/m20-g2-cover.jpg",
+  "source": [
+   "g2:M20.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 42283,
+  "sha256": "34164c6460bab2693bdf86b10a9c5934d9582320e6065047ed664831f55d299a",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m20-g2.jpg",
+  "source": [
+   "g2:M20.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 398249,
+  "sha256": "cb33b2a3a0a602e83e0bc79c84c1faa318dc55b9fc6a2db4a02a86a7293d0c07",
+  "width": 1280,
+  "height": 1280,
+  "duration": null
+ },
+ {
+  "output": "missions/m20-g2.mp4",
+  "source": [
+   "g2:M20.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 1420330,
+  "sha256": "f50b28a6b7706d5b3ddd3cf0a4f39546a9b3a6ddff9b2acb30bd82bf2718499f",
+  "width": 768,
+  "height": 432,
+  "duration": 14.58
+ },
+ {
+  "output": "missions/m20-srfa-g1-1.jpg",
+  "source": [
+   "g1:M20.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 272167,
+  "sha256": "2da3d97fbb4d2645176893ffb5c7ea933dac47cd86013bd98c47a3cc51c1ffa3",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m20-srfa-g2-1.jpg",
+  "source": [
+   "g2:m20.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 257913,
+  "sha256": "f4599d4d39204441dfdf7f2c2c3f4d86cb737a331c35d3ebc917b5b063b828d4",
+  "width": 1024,
+  "height": 1024,
+  "duration": null
+ },
+ {
+  "output": "missions/m21-g1-cover.jpg",
+  "source": [
+   "g1:M21.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 16959,
+  "sha256": "cd3088ba5fbb4cb4a64092ad98c548f5b57cd177bf329ffc8331c2df78faa4ed",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m21-g1.jpg",
+  "source": [
+   "g1:M21.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 375299,
+  "sha256": "60a8b152701b9ff258d7813932947bd1557e8b6432481ae6f894af391f6667a2",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m21-g1.mp4",
+  "source": [
+   "g1:M21.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 747428,
+  "sha256": "941eab56720a5c186546180b4041b8ccc72404f1243389672e5272a817af2008",
+  "width": 320,
+  "height": 208,
+  "duration": 12.88
+ },
+ {
+  "output": "missions/m21-srfa-g1-1.jpg",
+  "source": [
+   "g1:M21.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 366219,
+  "sha256": "7979c2d96434cd45ae909ddf9d024ce9367b0fc3f51d402166bef4153db4cd07",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m22-g1-cover.jpg",
+  "source": [
+   "g1:M22.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 13791,
+  "sha256": "b80ba5da8508d49f8ed1012dcc0bd1dbea86cd94d0f67859b593b8b5b78673ed",
+  "width": 320,
+  "height": 208,
+  "duration": null
+ },
+ {
+  "output": "missions/m22-g1.jpg",
+  "source": [
+   "g1:M22.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 433773,
+  "sha256": "17b3a7e48c23f57513116e7ca90c9bbb47ebaa3fe24fe9946ee4b441ade6973c",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m22-g1.mp4",
+  "source": [
+   "g1:M22.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 1086873,
+  "sha256": "c5e6223c157fddc9b3e8cb50cc57fd7b97c05bdca5cc44ef57e52544ad8e6ece",
+  "width": 320,
+  "height": 208,
+  "duration": 15.42
+ },
+ {
+  "output": "missions/m22-g2-cover.jpg",
+  "source": [
+   "g2:M22.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 74948,
+  "sha256": "02c91b58552f15a076470be3d9e339b1a9f7d8085190d0cddeb141056c66fca3",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "missions/m22-g2.jpg",
+  "source": [
+   "g2:M22.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 390714,
+  "sha256": "bac961896441b21bc11c97b6eaa63b7520d22fb2e69ba67fee1809f0bf2fc0ec",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m22-g2.mp4",
+  "source": [
+   "g2:M22.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 3557522,
+  "sha256": "f72706d85a32daaf4a444abf7822bdfb7793b519ef31d8e3fdd57a1237a532fa",
+  "width": 768,
+  "height": 432,
+  "duration": 13.58
+ },
+ {
+  "output": "missions/m22-srfa-g1-1.jpg",
+  "source": [
+   "g1:M22.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 426003,
+  "sha256": "377e59968b986cc1010b376c4a4f00d667eba34209b85a895b6bcbb51a4d2882",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m22-srfa-g2-1.jpg",
+  "source": [
+   "g2:m22.srfa"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "mission-image",
+  "bytes": 379151,
+  "sha256": "8a0c7012fe3c4cbf6527c1cb6471412c95ea4eed7d99e211d4beb3eec334b679",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m23-g1.jpg",
+  "source": [
+   "g1:M23.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 430475,
+  "sha256": "c38083542ba89cb6402e055feb2a6287976cbe27c56a68bb5ce33bf7c36515d3",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/m23-srfa-g1-1.jpg",
+  "source": [
+   "g1:M23.srfa"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "mission-image",
+  "bytes": 416390,
+  "sha256": "1f57f236d4675c34bcc5d9bb29eebb8639a12f787458aa7542a7d9b62c437bcb",
+  "width": 1280,
+  "height": 1067,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m00-g12.png",
+  "source": [
+   "g1:M00.tmi",
+   "g2:M00.tmi"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 1960,
+  "sha256": "d3fe4532b55a0d80d79362f67d25d25901c86085660670ec569235ba79b39090",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m01-g1.png",
+  "source": [
+   "g1:M01.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 5101,
+  "sha256": "e7457648d4426f0c050ebba8f967eaabdddb0abb4c8be48447fba7ff88900665",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m01-g2.png",
+  "source": [
+   "g2:M01.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 4400,
+  "sha256": "dee34f0fd7c029861a91190fb36a9d0d2f315da382cd41a4ddd625b27e249764",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m02-g1.png",
+  "source": [
+   "g1:M02.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 1710,
+  "sha256": "0e431119859ab64ffbeaa9d2c491c942046402b74cc4dc86a134dc6b8fc3eee6",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m02-g2.png",
+  "source": [
+   "g2:M02.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 2940,
+  "sha256": "af857b35fa076b7dd2abf6c8d133d3f8fa3f18e4ab5d13f26b182350168f84d7",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m03-g1.png",
+  "source": [
+   "g1:M03.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 3777,
+  "sha256": "7f14f4a0d8975543bd38021c188d3e7430d437891948e4931919a8fe82985ce3",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m03-g2.png",
+  "source": [
+   "g2:M03.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 7163,
+  "sha256": "2c6e68357f87487fdd289dfd65241f656777e296da6c7d2b641063ab185eef9b",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m04-g1.png",
+  "source": [
+   "g1:M04.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 2335,
+  "sha256": "71a3a1ed2eec811f2d35467ad3caf6bdf63e522b4612f975d2b07e44dd1e6c25",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m04-g2.png",
+  "source": [
+   "g2:M04.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 1656,
+  "sha256": "f35c7af81c281d15e3957e5312c881e1aaf17a4c3e29a72e01e890c49eb5aff4",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m05-g1.png",
+  "source": [
+   "g1:M05.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 5307,
+  "sha256": "443099b1840f6250e8d80a4d3ccfb43a278fe6cb49c19e70813ed61c8c5773d3",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m06-g1.png",
+  "source": [
+   "g1:M06.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 2903,
+  "sha256": "8350d57fee3c2e3b0f3ce6b1701dee810f4f0f5fc786334ebc2292461579b0b5",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m06-g2.png",
+  "source": [
+   "g2:M06.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 2073,
+  "sha256": "1c3fe95342e995b258423ecca7cb0b1de5b547dbae6e69b597fbcd42edb9a9c0",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m07-g1.png",
+  "source": [
+   "g1:M07.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 2174,
+  "sha256": "1fd74f008bf9dd93bd602f4ef28dbc3c5d7d65e9f7f2c16f8cad36f8275260df",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m07-g2.png",
+  "source": [
+   "g2:M07.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 6284,
+  "sha256": "f792d9659f397d3c1f0b778dc99c4421b029e47d412b9835adde2fd8d724dc3e",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m08-g1.png",
+  "source": [
+   "g1:M08.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 7987,
+  "sha256": "b27450912a7665dbba528296eebde138c2efd8959ce313da189236715c5b3c9d",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m09-g1.png",
+  "source": [
+   "g1:M09.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 3783,
+  "sha256": "9d7cda38f627726aa1dbeb7eb52bd31c5fd838ac8d3dcc172a593164a5eda5c8",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m10-g1.png",
+  "source": [
+   "g1:M10.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 6984,
+  "sha256": "6221ac9ef4faf8164675ab430353e45d0f7794e6b664511642296e5e077099ee",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m11-g1.png",
+  "source": [
+   "g1:M11.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 2136,
+  "sha256": "8e562facbe0c96dcce0dc7106c2699e09cfe34496383a760150b3ce56a6dc55c",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m11-g2.png",
+  "source": [
+   "g2:M11.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 2635,
+  "sha256": "5e0cd48feafb764509e4954ebee5bfa02261c6f455750d6b7bcb781afbc1f94c",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m12-g1.png",
+  "source": [
+   "g1:M12.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 3906,
+  "sha256": "2d8c6fe58550686c1ae5fbd290d5bf446c780c7d36abf82a9aad8e503df9f769",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m12-g2.png",
+  "source": [
+   "g2:M12.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 5555,
+  "sha256": "3a510dc763e848d7591a81b3ef856878184d9ccd9cfc20add14a17b118f77a32",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m13-g1.png",
+  "source": [
+   "g1:M13.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 5176,
+  "sha256": "14d768143444fe08a72f9e1517bc9edf8c28e3bd4ff4cac177810595d4762ef5",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m14-g1.png",
+  "source": [
+   "g1:M14.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 3704,
+  "sha256": "a96faf581448d51433b2ace6a1c2073077c8d23f55a732cb0fbcf6ed8827ff54",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m15-g1.png",
+  "source": [
+   "g1:M15.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 2342,
+  "sha256": "aebd213ac9ba05c7070ccc23d1ae06276054b15bb27176b3a7d61854939321e0",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m15-g2.png",
+  "source": [
+   "g2:M15.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 2217,
+  "sha256": "2a32ca5267d50ad7805239c67e234c91a95a04f67254e477d5212cf454b38894",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m16-g1.png",
+  "source": [
+   "g1:M16.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 3237,
+  "sha256": "a2536d48a5fec56a26d2b70d2e3cce94be526f433faa617649dee2dfc5eafa97",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m17-g1.png",
+  "source": [
+   "g1:M17.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 3850,
+  "sha256": "a5283dd805c3dfe31e640473a94d717005fe44291e119fbafd7cf36b62fa17f0",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m18-g1.png",
+  "source": [
+   "g1:M18.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 4564,
+  "sha256": "a1df5f891eace43e234eeb11a30c58a55ce40ed9341059bdc10d4e37e6c9f3df",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m19-g1.png",
+  "source": [
+   "g1:M19.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 1996,
+  "sha256": "083bcec88fecaddd577538f995815add6ca26d6d3df48d7a853a671a3b7a6dd1",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m20-g1.png",
+  "source": [
+   "g1:M20.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 3003,
+  "sha256": "d70b7fb5ad29ffa8ca0d8d3be0b8e7cf0a38e084d3601feea1a8b69bc994c320",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m20-g2.png",
+  "source": [
+   "g2:M20.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 541,
+  "sha256": "85b533582c6b46ffb1c44409de652d0dccc4f04bf21ef3d78f3245c39e298a6f",
+  "width": 256,
+  "height": 256,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m21-g1.png",
+  "source": [
+   "g1:M21.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 5815,
+  "sha256": "747d68849db28062139582c5262c8c5a9dc48179b2488832acdc876ed9d7c6a5",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m22-g1.png",
+  "source": [
+   "g1:M22.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 2283,
+  "sha256": "b818e1136d2a888c89d657bd6e36ecd54cbd130ee4450c81374cdc80f6943904",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m22-g2.png",
+  "source": [
+   "g2:M22.tmi"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "minimap",
+  "bytes": 1558,
+  "sha256": "6e1550a412ffec886bf5e5860fea6af97941fbb3121e46febfb7bbfe19d3a697",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "missions/minimap-m23-g1.png",
+  "source": [
+   "g1:M23.tmi"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "minimap",
+  "bytes": 5307,
+  "sha256": "443099b1840f6250e8d80a4d3ccfb43a278fe6cb49c19e70813ed61c8c5773d3",
+  "width": 384,
+  "height": 320,
+  "duration": null
+ },
+ {
+  "output": "movies/ma-g12.jpg",
+  "source": [
+   "g1:mA.sgv",
+   "g2:mA.sgv"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 12923,
+  "sha256": "c0a6a5903e42926f296e8badb66561507ebdfdcf363aacdff43243d88d2fb029",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "movies/ma-g12.mp4",
+  "source": [
+   "g1:mA.sgv",
+   "g2:mA.sgv"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 455196,
+  "sha256": "4f4f14efdda4b708dc708e89362f8686db88d551ede01fcb6781da28776a9e0b",
+  "width": 640,
+  "height": 480,
+  "duration": 8.32
+ },
+ {
+  "output": "movies/mb-g12.jpg",
+  "source": [
+   "g1:mB.sgv",
+   "g2:mB.sgv"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 4288,
+  "sha256": "56939a4443bce5a39b570ee88028f52d4376f4528458d0df09790f60ed7b617d",
+  "width": 128,
+  "height": 112,
+  "duration": null
+ },
+ {
+  "output": "movies/mb-g12.mp4",
+  "source": [
+   "g1:mB.sgv",
+   "g2:mB.sgv"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 40974,
+  "sha256": "41e83c16a6eaa76e1c5f54f01efc59eaaa10ae74a1b41f5686ecb87a9566fa82",
+  "width": 128,
+  "height": 112,
+  "duration": 8.0
+ },
+ {
+  "output": "movies/mi-g1.jpg",
+  "source": [
+   "g1:mI.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 20046,
+  "sha256": "aec2fae08142474202565ee89b45608b17549549a2c816a4bf337f3c61d32e5b",
+  "width": 320,
+  "height": 240,
+  "duration": null
+ },
+ {
+  "output": "movies/mi-g1.mp4",
+  "source": [
+   "g1:mI.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 18648194,
+  "sha256": "a4f5fcf862bf9d66c14874273451d4b50472cd3a84fb92a6ab962ad57415288d",
+  "width": 320,
+  "height": 240,
+  "duration": 185.02
+ },
+ {
+  "output": "movies/mi-g2.jpg",
+  "source": [
+   "g2:mI.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 7478,
+  "sha256": "db2fc5758188b5d59f160544939052ae688a5a59ba4eec1b9411b5af1e6b96de",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "movies/mi-g2.mp4",
+  "source": [
+   "g2:mI.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 4532398,
+  "sha256": "11da26e7f6f943e4131585e8d30fe87d174e337b585f651094010d673e866fdb",
+  "width": 768,
+  "height": 432,
+  "duration": 49.98
+ },
+ {
+  "output": "movies/mo-g1.jpg",
+  "source": [
+   "g1:mO.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie-cover",
+  "bytes": 26605,
+  "sha256": "230203a9d5b9a4965b4ba2b6b119be8b6691d1c249d766efd8bdf70d4aa620ec",
+  "width": 320,
+  "height": 240,
+  "duration": null
+ },
+ {
+  "output": "movies/mo-g1.mp4",
+  "source": [
+   "g1:mO.sgv"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "movie",
+  "bytes": 6682271,
+  "sha256": "b7dedbb200b1348192e8201c0ffaf0200054e08df36ea20ee5459c156fbbb14c",
+  "width": 320,
+  "height": 240,
+  "duration": 100.02
+ },
+ {
+  "output": "movies/mo-g2.jpg",
+  "source": [
+   "g2:mO.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie-cover",
+  "bytes": 42841,
+  "sha256": "ca75e511357806da600441df1b395d8ff9e21785a26a5af0b13b15fc0976cafd",
+  "width": 768,
+  "height": 432,
+  "duration": null
+ },
+ {
+  "output": "movies/mo-g2.mp4",
+  "source": [
+   "g2:mO.sgv"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "movie",
+  "bytes": 2595713,
+  "sha256": "74df603693f9a549677d1dd4f326d581354746a111deceb3ecfca456bfce31e6",
+  "width": 768,
+  "height": 432,
+  "duration": 20.01
+ },
+ {
+  "output": "pictures/01-g12.jpg",
+  "source": [
+   "g1:01.srf",
+   "g2:01.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 96249,
+  "sha256": "ec154f5f3d819356274c7efde4992cdbdbb0b2fe8ddc76d032c4d5678197fe46",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/02-g12.jpg",
+  "source": [
+   "g1:02.srf",
+   "g2:02.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 100003,
+  "sha256": "30f8275f2535668bcf582b213d460e505324d0137ab64f832352e1570c731afb",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/03-g12.jpg",
+  "source": [
+   "g1:03.srf",
+   "g2:03.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 92936,
+  "sha256": "668b27f60b97230312837d8c8db3c821b119dbd1bab9e2a28a07ebcd0a6cabc7",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/adapting-g12.jpg",
+  "source": [
+   "g1:Adapting.srf",
+   "g2:Adapting.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 51011,
+  "sha256": "b4e9b5fa239a5e3f3e015b715b50918b9f1323542f96fbdc40813b237c3fe0a9",
+  "width": 800,
+  "height": 600,
+  "duration": null
+ },
+ {
+  "output": "pictures/briefing-g12.jpg",
+  "source": [
+   "g1:Briefing.srf",
+   "g2:Briefing.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 55182,
+  "sha256": "f7b16db0fceba582b9a15136e0b3d386ec708ef68d466dc1e84debe7896717b4",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/ci-g1.jpg",
+  "source": [
+   "g1:CI.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "picture",
+  "bytes": 31820,
+  "sha256": "9bb272f2fac97f040e2c6269473dea13025aa1e737b57e44f8a29f3569d2cc7f",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/ci-g2.jpg",
+  "source": [
+   "g2:CI.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 10089,
+  "sha256": "85ba9c83628b79f61b9db41b6aed137c909796531cf10ecc68776e082100fa72",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/credits-g12.jpg",
+  "source": [
+   "g1:Credits.srf",
+   "g2:Credits.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 69594,
+  "sha256": "64468059e086155475e89efcbdea3df7756379d4f066c64b3d967e57e286e3ac",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/cs-g12.jpg",
+  "source": [
+   "g1:CS.srf",
+   "g2:CS.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 23601,
+  "sha256": "601882d4cdd645dcecdd09773dbaba7eb74d2df4aacb1bc6f5570bf2caae85bd",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/load-g12.jpg",
+  "source": [
+   "g1:Load.srf",
+   "g2:Load.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 56615,
+  "sha256": "c9bd524963f6187ae2b004ea3cffdb7da4d13a7d1e57b82d52f0ff9620336a93",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/mainmenu-g1.jpg",
+  "source": [
+   "g1:MainMenu.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "picture",
+  "bytes": 44394,
+  "sha256": "ca268b663091a2d10fa8157105a4d2fc43280a01bf7c08bfa87d9b2b3e6f5444",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/mainmenu-g2.jpg",
+  "source": [
+   "g2:MainMenu.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 58681,
+  "sha256": "af777fd9c2f55860cc5aaa7a86a63b938e27d7cc6eb7f5e1a7691fad96e6b5c5",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/nazov-g1.jpg",
+  "source": [
+   "g1:Nazov.srf"
+  ],
+  "games": [
+   "g1"
+  ],
+  "kind": "picture",
+  "bytes": 85452,
+  "sha256": "1be20d42a43f7b0c60836653802ded3d47b0013a21125ee65270400d08e88c81",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/nazov-g2.jpg",
+  "source": [
+   "g2:Nazov.srf"
+  ],
+  "games": [
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 93659,
+  "sha256": "8f35dfbdebdd8a0f3063749edf54d7101cc1bd7857b76708d94351fb52300cb1",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/network-g12.jpg",
+  "source": [
+   "g1:Network.srf",
+   "g2:Network.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 64289,
+  "sha256": "b2548dca88298556e8cb3900ba4f6eb27ac6db10e0a66e3087d3b3dd301444e4",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/network2-g12.jpg",
+  "source": [
+   "g1:Network2.srf",
+   "g2:Network2.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 67680,
+  "sha256": "a20bb3913924e45ca1f8e63e98b479c99ea21e4d307639542204a28ffe129782",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/options-g12.jpg",
+  "source": [
+   "g1:Options.srf",
+   "g2:Options.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 71654,
+  "sha256": "f2f300626956d345a8dd5ceb10632e69186c1b119b950aaaca5ed9b700496989",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/presents-g12.jpg",
+  "source": [
+   "g1:Presents.srf",
+   "g2:Presents.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 8174,
+  "sha256": "6ce8d31abf50a4601edd13d644cad18e363d68b8f58b48dfcb76986727de1fbc",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ },
+ {
+  "output": "pictures/statistic-g12.jpg",
+  "source": [
+   "g1:Statistic.srf",
+   "g2:Statistic.srf"
+  ],
+  "games": [
+   "g1",
+   "g2"
+  ],
+  "kind": "picture",
+  "bytes": 73303,
+  "sha256": "9fc38853c21b9ad9c8590e1fd2a2ce77e16df8ad5208b79a15949535a0575842",
+  "width": 640,
+  "height": 480,
+  "duration": null
+ }
+]

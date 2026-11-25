@@ -1,0 +1,236 @@
+[
+  {
+    "action": "在地图上浏览",
+    "keys": "方向键",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "选择飞碟",
+    "keys": "H 或 数字键 +",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」/「提示和决窍」节（两处表述略有出入，原样收录）"
+  },
+  {
+    "action": "回到已选择的作战单位",
+    "keys": "数字键 回车",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "返回上一则信息",
+    "keys": "空格键 或 数字键 0",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "返回总部",
+    "keys": "Back Space",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "查看战火下的作战单位",
+    "keys": "Tab",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "选择所有看得见的作战单位",
+    "keys": "数字键 *",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "选择所有看得见的对空作战单位",
+    "keys": "数字键 /",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」/「提示和决窍」节（两处表述略有出入，原样收录）"
+  },
+  {
+    "action": "选择所有看得见的坦克单位",
+    "keys": "数字键 -",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」/「提示和决窍」节（两处表述略有出入，原样收录）"
+  },
+  {
+    "action": "附加选项",
+    "keys": "Esc",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "浏览地图上的每一处",
+    "keys": "数字键 1-9",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "选择位置（定义战略位置）",
+    "keys": "Shift + 数字键 1-9",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "选择集结指分（集结点）",
+    "keys": "R",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "分散",
+    "keys": "X",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "迫使作战单位袭击（推动袭击）",
+    "keys": "Ctrl 或 Alt",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "放置一个炮塔",
+    "keys": "1 – 5",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "增加作战单位",
+    "keys": "Shift",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "快速保存",
+    "keys": "F5",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "快速读取",
+    "keys": "Shift + F5",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "暂停",
+    "keys": "P",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "显示游戏中的热键",
+    "keys": "F1",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "显示简报",
+    "keys": "F2",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "直接退出",
+    "keys": "F12",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "聊天（多人游戏）",
+    "keys": "回车",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」节"
+  },
+  {
+    "action": "优先指挥飞碟",
+    "keys": "数字键 + 且鼠标左键",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」/「提示和决窍」节（两处表述略有出入，原样收录）"
+  },
+  {
+    "action": "居中观察飞碟",
+    "keys": "数字键 + 且 数字键 回车",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "source": "g1 ReadMe.doc「游戏热键设置」/「提示和决窍」节（两处表述略有出入，原样收录）"
+  }
+]

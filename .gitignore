@@ -1,0 +1,33 @@
+# 依赖与构建产物
+node_modules/
+dist/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Python 中间产物
+__pycache__/
+*.pyc
+
+# 大体量中间产物（提取/解码/测试运行目录）
+_work/
+
+# 精灵图目录（由提取脚本生成，体量大，不入库）
+research/sprite-catalog/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地安全扫描钩子状态（Mimosa）
+.mimosa/
+
+# ===== 媒体策略：图片入库，影片与音频不入库 =====
+# 影片/音频体积大且有版权风险，仅保留在本地 docs/public/media 中，不提交到仓库。
+docs/public/media/**/*.mp4
+docs/public/media/**/*.webm
+docs/public/media/**/*.wav
+docs/public/media/**/*.mp3
+docs/public/media/**/*.ogg
+
+# .srfa 是 .srf 关卡地形底图的半分辨率副本（页面不使用），仅保留在本地
+docs/public/media/missions/*-srfa-*.jpg

@@ -1,0 +1,21 @@
+{
+  "name": "blue-alert-re",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "《蓝色警戒》(State of War, 2001) 与《蓝色警戒II：战争狂人》(Warmonger, 2003) 非营利粉丝资料维基",
+  "scripts": {
+    "dev": "node tools/build-content.mjs && vitepress dev docs",
+    "build": "node tools/build-content.mjs && vitepress build docs",
+    "preview": "vitepress preview docs",
+    "content": "node tools/build-content.mjs",
+    "check": "node tools/check-content.mjs",
+    "test:pipeline": "node tools/build-content.mjs --data data/examples --docs _work/pipeline/docs && node tools/check-content.mjs --data data/examples && node -e \"const fs=require('fs');const need=['missions/g1-m01/index.md','missions/g2-m01/index.md','units/u-001/index.md','units/u-002/index.md','units/u-003/index.md','units/building/index.md'];for(const f of need){if(!fs.existsSync('_work/pipeline/docs/'+f)){console.error('FAIL missing '+f);process.exit(1)}};console.log('pipeline OK: '+need.length+' expected pages generated')\""
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

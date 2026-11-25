@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g1-m01",
+    "game": "g1",
+    "games": ["g1"],
+    "code": "M01",
+    "order": 1,
+    "type": "campaign",
+    "title": "边境冲突（示例）",
+    "baseCode": "M01",
+    "expectedNo": 1,
+    "difficulty": "简单",
+    "opponent": "敌军指挥官（示例）",
+    "objective": ["摧毁敌方指挥总部", "保证己方指挥总部不被摧毁"],
+    "briefing": "这是一条示例简报文本，用于测试站点生成管线：指挥官，敌军已越过边境线，命令你立即部署部队，摧毁其指挥总部。",
+    "note": "示例备注：本条数据仅用于流程测试。",
+    "files": {
+      "map": "Data/Levels/M01.map",
+      "inf": "Data/Levels/M01.inf"
+    },
+    "media": {
+      "image": "/media/missions/g1-m01.jpg",
+      "minimap": "/media/missions/g1-m01-minimap.png"
+    },
+    "sources": ["示例数据：仅用于测试生成管线，非游戏内提取数据"]
+  },
+  {
+    "id": "g2-m01",
+    "game": "g2",
+    "games": ["g2"],
+    "code": "M01",
+    "order": 1,
+    "type": "campaign",
+    "title": "新的战争（示例）",
+    "baseCode": "M01",
+    "expectedNo": 1,
+    "difficulty": "普通",
+    "opponent": null,
+    "objective": "夺取敌军基地并守住 10 分钟（示例目标文本）",
+    "briefing": "第二条示例简报：战争再次爆发，指挥官，率领你的部队夺取敌军基地。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M01.map"
+    },
+    "media": {
+      "image": "/media/missions/g2-m01.jpg",
+      "video": "/media/movies/g2-m01.mp4",
+      "poster": "/media/movies/g2-m01-poster.jpg"
+    },
+    "sources": ["示例数据：仅用于测试生成管线，非游戏内提取数据"]
+  }
+]

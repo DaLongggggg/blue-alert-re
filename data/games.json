@@ -1,0 +1,24 @@
+{
+  "g1": {
+    "id": "g1",
+    "order": 1,
+    "label": "第一部",
+    "mark": "Ⅰ",
+    "title": "蓝色警戒",
+    "subtitle": "State of War",
+    "year": 2001,
+    "sourceDir": "蓝色警戒I完整版",
+    "exe": "State of War.exe"
+  },
+  "g2": {
+    "id": "g2",
+    "order": 2,
+    "label": "第二部",
+    "mark": "Ⅱ",
+    "title": "蓝色警戒II：战争狂人",
+    "subtitle": "State of War: Warmonger",
+    "year": 2003,
+    "sourceDir": "蓝色警戒II完整版",
+    "exe": "State of War - Warmonger.exe"
+  }
+}

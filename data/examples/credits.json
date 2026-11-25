@@ -1,0 +1,11 @@
+{
+  "_note": "示例数据，仅用于 test:pipeline 冒烟测试，不进入正式站点数据。",
+  "sections": [
+    {
+      "title": "Programming（示例）",
+      "people": ["开发者甲（示例）", "开发者乙（示例）"],
+      "games": ["g1", "g2"]
+    }
+  ],
+  "sources": []
+}

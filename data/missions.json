@@ -1,0 +1,1881 @@
+[
+  {
+    "id": "g1-m01",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M01",
+    "order": 1,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "X8A",
+    "expectedNo": 1,
+    "difficulty": 1,
+    "opponent": "加拿大",
+    "objective": "任务：增加你的陆地作战单位的技术水平，并得到空中力量的援助。用它们去摧毁岛上敌人的总部。",
+    "briefing": "首先要占领位于你方初始位置左边的太阳能搜集器。它将会给你提供大量的研究指数。你需要积500分指数来提升你方工厂的技术水平。随即，你要制造出强大的战斗单位。在你完成这项任务后，你的援军就来了。最后，你必须摧毁敌人位于岛上的总部。你必须先摧毁敌人的高射炮，这样我们的运兵飞船才能安全地把坦克运到岛上。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M01.map",
+      "til": "Data/Levels/M01.til",
+      "tmi": "Data/Levels/M01.tmi",
+      "srfa": "Data/Levels/M01.srfa",
+      "srf": "Data/Levels/M01.srf",
+      "edt": "Data/Levels/M01.edt",
+      "sgv": "Data/Levels/M01.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m01-g1.jpg",
+      "video": "/media/missions/m01-g1.mp4",
+      "poster": "/media/missions/m01-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m01-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 1（0x438bbb 起 22 分支）push 顺序: 领土行0x4a54dc 基地行0x4a54bc 战况0x4a5394 任务0x4a5338（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M01.map（文件存在）",
+      "g1 Data/Levels/M01.til（文件存在）",
+      "g1 Data/Levels/M01.tmi（文件存在）",
+      "g1 Data/Levels/M01.srfa（文件存在）",
+      "g1 Data/Levels/M01.srf（文件存在）",
+      "g1 Data/Levels/M01.edt（文件存在）",
+      "g1 Data/Levels/M01.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m02",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M02",
+    "order": 2,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "E1B",
+    "expectedNo": 2,
+    "difficulty": 2,
+    "opponent": "摩洛哥",
+    "objective": "任务：占领敌人的建筑，聚集重兵力摧毁敌人的总部。",
+    "briefing": "我们的运兵飞船被击落了！他们担负着运送一个小分队占领摩洛哥的任务。因此，你就必须承担起占领摩洛哥基地的任务。使用飞碟，逐步占领敌人的建筑，最后，摧毁敌人的总部。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M02.map",
+      "til": "Data/Levels/M02.til",
+      "tmi": "Data/Levels/M02.tmi",
+      "srfa": "Data/Levels/M02.srfa",
+      "srf": "Data/Levels/M02.srf",
+      "edt": "Data/Levels/M02.edt",
+      "sgv": "Data/Levels/M02.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m02-g1.jpg",
+      "video": "/media/missions/m02-g1.mp4",
+      "poster": "/media/missions/m02-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m02-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 2（0x438bbb 起 22 分支）push 顺序: 领土行0x4a5320 基地行0x4a5300 战况0x4a525c 任务0x4a5228（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M02.map（文件存在）",
+      "g1 Data/Levels/M02.til（文件存在）",
+      "g1 Data/Levels/M02.tmi（文件存在）",
+      "g1 Data/Levels/M02.srfa（文件存在）",
+      "g1 Data/Levels/M02.srf（文件存在）",
+      "g1 Data/Levels/M02.edt（文件存在）",
+      "g1 Data/Levels/M02.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m03",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M03",
+    "order": 3,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "B2E",
+    "expectedNo": 9,
+    "difficulty": 5,
+    "opponent": "斯洛伐克",
+    "objective": "任务：保护好罗根炸弹，并把它们护送到我方的总部。",
+    "briefing": "在这次任务中你必须把罗根炸弹（共4个）护送到我方的总部。你可以随意调动我方的超级机器人。要非常提防敌方的空袭。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M03.map",
+      "til": "Data/Levels/M03.til",
+      "tmi": "Data/Levels/M03.tmi",
+      "srfa": "Data/Levels/M03.srfa",
+      "srf": "Data/Levels/M03.srf",
+      "edt": "Data/Levels/M03.edt",
+      "sgv": "Data/Levels/M03.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m03-g1.jpg",
+      "video": "/media/missions/m03-g1.mp4",
+      "poster": "/media/missions/m03-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m03-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 3（0x438bbb 起 22 分支）push 顺序: 领土行0x4a5210 基地行0x4a51f0 战况0x4a5180 任务0x4a514c（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M03.map（文件存在）",
+      "g1 Data/Levels/M03.til（文件存在）",
+      "g1 Data/Levels/M03.tmi（文件存在）",
+      "g1 Data/Levels/M03.srfa（文件存在）",
+      "g1 Data/Levels/M03.srf（文件存在）",
+      "g1 Data/Levels/M03.edt（文件存在）",
+      "g1 Data/Levels/M03.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m04",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M04",
+    "order": 4,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "P4C",
+    "expectedNo": 4,
+    "difficulty": 3,
+    "opponent": "德克萨斯",
+    "objective": "任务：摧毁敌人的所有作战单位，并控制整个基地。",
+    "briefing": "你首先要夺取一个重要的能量资源――太阳能搜集器，把敌人赶出德克萨斯基地。然后占领所有的建筑,并干掉所有的敌人。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M04.map",
+      "til": "Data/Levels/M04.til",
+      "tmi": "Data/Levels/M04.tmi",
+      "srfa": "Data/Levels/M04.srfa",
+      "srf": "Data/Levels/M04.srf",
+      "edt": "Data/Levels/M04.edt",
+      "sgv": "Data/Levels/M04.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m04-g1.jpg",
+      "video": "/media/missions/m04-g1.mp4",
+      "poster": "/media/missions/m04-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m04-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 4（0x438bbb 起 22 分支）push 顺序: 领土行0x4a5134 基地行0x4a5114 战况0x4a50a4 任务0x4a5074（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M04.map（文件存在）",
+      "g1 Data/Levels/M04.til（文件存在）",
+      "g1 Data/Levels/M04.tmi（文件存在）",
+      "g1 Data/Levels/M04.srfa（文件存在）",
+      "g1 Data/Levels/M04.srf（文件存在）",
+      "g1 Data/Levels/M04.edt（文件存在）",
+      "g1 Data/Levels/M04.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m05",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M05",
+    "order": 5,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "C9F",
+    "expectedNo": 5,
+    "difficulty": 6,
+    "opponent": "中国",
+    "objective": "任务：你的任务是消灭企图控制这个地区的每一个敌人，并占领敌人的建筑。",
+    "briefing": "中国的基地建立在宇宙飞船碰撞的地区。由于敌人不断地袭击这个战略要地，我们的研究受到了很大的威胁。首先，用战斗机摧毁敌人的罗根炸弹。然后，占领位于你方总部北部的建筑。这样，你就会得到超级机器人和罗根炸弹的充足的供应。用它们占领敌人所有的建筑，最后，摧毁敌人的总部。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M05.map",
+      "til": "Data/Levels/M05.til",
+      "tmi": "Data/Levels/M05.tmi",
+      "srfa": "Data/Levels/M05.srfa",
+      "srf": "Data/Levels/M05.srf",
+      "edt": "Data/Levels/M05.edt",
+      "sgv": "Data/Levels/M05.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m05-g1.jpg",
+      "video": "/media/missions/m05-g1.mp4",
+      "poster": "/media/missions/m05-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m05-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 5（0x438bbb 起 22 分支）push 顺序: 领土行0x4a505c 基地行0x4a5040 战况0x4a4f38 任务0x4a4ef0（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M05.map（文件存在）",
+      "g1 Data/Levels/M05.til（文件存在）",
+      "g1 Data/Levels/M05.tmi（文件存在）",
+      "g1 Data/Levels/M05.srfa（文件存在）",
+      "g1 Data/Levels/M05.srf（文件存在）",
+      "g1 Data/Levels/M05.edt（文件存在）",
+      "g1 Data/Levels/M05.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m06",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M06",
+    "order": 6,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "W3C",
+    "expectedNo": 6,
+    "difficulty": 3,
+    "opponent": "俄国",
+    "objective": "任务：夺取敌人的飞机生产基地，摧毁敌人的总部。",
+    "briefing": "敌人占领了所有飞机生产基地。它们位于西伯利亚沿海。你的任务是把它们全部消灭，最后，再摧毁敌人的总部。小心！敌人的空中力量非常强大！领土西北角的太阳能搜集器能够帮助你取得胜利。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M06.map",
+      "til": "Data/Levels/M06.til",
+      "tmi": "Data/Levels/M06.tmi",
+      "srfa": "Data/Levels/M06.srfa",
+      "srf": "Data/Levels/M06.srf",
+      "edt": "Data/Levels/M06.edt",
+      "sgv": "Data/Levels/M06.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m06-g1.jpg",
+      "video": "/media/missions/m06-g1.mp4",
+      "poster": "/media/missions/m06-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m06-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 6（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4ed8 基地行0x4a4ebc 战况0x4a4e0c 任务0x4a4ddc（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M06.map（文件存在）",
+      "g1 Data/Levels/M06.til（文件存在）",
+      "g1 Data/Levels/M06.tmi（文件存在）",
+      "g1 Data/Levels/M06.srfa（文件存在）",
+      "g1 Data/Levels/M06.srf（文件存在）",
+      "g1 Data/Levels/M06.edt（文件存在）",
+      "g1 Data/Levels/M06.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m07",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M07",
+    "order": 7,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "B7D",
+    "expectedNo": 7,
+    "difficulty": 4,
+    "opponent": "苏丹",
+    "objective": "任务：坚守阵地20分钟，然后，用飞碟去占领敌人的建筑，摧毁敌人的总部。",
+    "briefing": "敌人的兵团包围了我们。你可以先用几辆坦克夺取东部的建筑。这样，你就可以抵挡敌人重兵力的袭击了。你必须坚持20分钟，直到你的援军到达。你的援军会给你带来强大的陆地作战单位和一个飞碟，它们能帮助你夺取敌人的建筑，并取得最后的胜利。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M07.map",
+      "til": "Data/Levels/M07.til",
+      "tmi": "Data/Levels/M07.tmi",
+      "srfa": "Data/Levels/M07.srfa",
+      "srf": "Data/Levels/M07.srf",
+      "edt": "Data/Levels/M07.edt",
+      "sgv": "Data/Levels/M07.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m07-g1.jpg",
+      "video": "/media/missions/m07-g1.mp4",
+      "poster": "/media/missions/m07-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m07-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 7（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4dc4 基地行0x4a4da8 战况0x4a4cc4 任务0x4a4c7c（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M07.map（文件存在）",
+      "g1 Data/Levels/M07.til（文件存在）",
+      "g1 Data/Levels/M07.tmi（文件存在）",
+      "g1 Data/Levels/M07.srfa（文件存在）",
+      "g1 Data/Levels/M07.srf（文件存在）",
+      "g1 Data/Levels/M07.edt（文件存在）",
+      "g1 Data/Levels/M07.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m08",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M08",
+    "order": 8,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "D5I",
+    "expectedNo": 13,
+    "difficulty": 9,
+    "opponent": "荷兰",
+    "objective": "任务：保护好罗根炸弹，摧毁敌人的总部。",
+    "briefing": "敌人控制了这里的大部分地区。首先，你必须护送好罗根炸弹，稍后，我们会需要它们的。用超级机器人和重型空中单位完成这个任务。当把罗根炸弹护送到目的地后，集中所有兵力一举歼灭敌人。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M08.map",
+      "til": "Data/Levels/M08.til",
+      "tmi": "Data/Levels/M08.tmi",
+      "srfa": "Data/Levels/M08.srfa",
+      "srf": "Data/Levels/M08.srf",
+      "edt": "Data/Levels/M08.edt",
+      "sgv": "Data/Levels/M08.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m08-g1.jpg",
+      "video": "/media/missions/m08-g1.mp4",
+      "poster": "/media/missions/m08-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m08-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 8（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4c64 基地行0x4a4c48 战况0x4a4b98 任务0x4a4b70（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M08.map（文件存在）",
+      "g1 Data/Levels/M08.til（文件存在）",
+      "g1 Data/Levels/M08.tmi（文件存在）",
+      "g1 Data/Levels/M08.srfa（文件存在）",
+      "g1 Data/Levels/M08.srf（文件存在）",
+      "g1 Data/Levels/M08.edt（文件存在）",
+      "g1 Data/Levels/M08.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m09",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M09",
+    "order": 9,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "F1B",
+    "expectedNo": 3,
+    "difficulty": 2,
+    "opponent": "挪威",
+    "objective": "任务：摧毁敌人的总部。",
+    "briefing": "在这项任务中你有几个地面作战单位和四个带原子能弹头的罗根炸弹。用它们去清除敌人的防线和炮塔。然后用地面单位去占领敌人的建筑。记住，阿锡莱利大炮最利于击中远距离的目标。最后，你必须摧毁敌人的总部。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M09.map",
+      "til": "Data/Levels/M09.til",
+      "tmi": "Data/Levels/M09.tmi",
+      "srfa": "Data/Levels/M09.srfa",
+      "srf": "Data/Levels/M09.srf",
+      "edt": "Data/Levels/M09.edt",
+      "sgv": "Data/Levels/M09.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m09-g1.jpg",
+      "video": "/media/missions/m09-g1.mp4",
+      "poster": "/media/missions/m09-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m09-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 9（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4b58 基地行0x4a4b3c 战况0x4a4a78 任务0x4a4a60（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M09.map（文件存在）",
+      "g1 Data/Levels/M09.til（文件存在）",
+      "g1 Data/Levels/M09.tmi（文件存在）",
+      "g1 Data/Levels/M09.srfa（文件存在）",
+      "g1 Data/Levels/M09.srf（文件存在）",
+      "g1 Data/Levels/M09.edt（文件存在）",
+      "g1 Data/Levels/M09.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m10",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M10",
+    "order": 10,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "L4E",
+    "expectedNo": 10,
+    "difficulty": 5,
+    "opponent": "澳大利亚",
+    "objective": "任务：用你的空中力量除去敌人的防御，摧毁他们的总部。",
+    "briefing": "敌人以迅雷不及掩耳的速度占领了我方澳大利亚的南部联络中心，使我们的卫星失去了与其他卫星的联络。敌人的炮塔防御非常强大，但是由于他们急于求成，拥有的空中力量并不多，所以你可以得到大量的空中力量支持。用它们去收复失地吧！",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M10.map",
+      "til": "Data/Levels/M10.til",
+      "tmi": "Data/Levels/M10.tmi",
+      "srfa": "Data/Levels/M10.srfa",
+      "srf": "Data/Levels/M10.srf",
+      "edt": "Data/Levels/M10.edt",
+      "sgv": "Data/Levels/M10.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m10-g1.jpg",
+      "video": "/media/missions/m10-g1.mp4",
+      "poster": "/media/missions/m10-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m10-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 10（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4a48 基地行0x4a4a28 战况0x4a494c 任务0x4a4914（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M10.map（文件存在）",
+      "g1 Data/Levels/M10.til（文件存在）",
+      "g1 Data/Levels/M10.tmi（文件存在）",
+      "g1 Data/Levels/M10.srfa（文件存在）",
+      "g1 Data/Levels/M10.srf（文件存在）",
+      "g1 Data/Levels/M10.edt（文件存在）",
+      "g1 Data/Levels/M10.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m11",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M11",
+    "order": 11,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "K0D",
+    "expectedNo": 11,
+    "difficulty": 4,
+    "opponent": "希腊",
+    "objective": "任务：用炮塔逐步占领敌人的建筑，并摧毁敌人的总部。",
+    "briefing": "到现在为止，我们已经取得了欧洲战争的胜利,是收复南部的时候了。我们处于敌人的强大防御工事之下。我们的陆地作战单位还没有到达，并且你手中只有几个炮塔。用炮塔占领附近敌人的设施，摧毁敌人的总部。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M11.map",
+      "til": "Data/Levels/M11.til",
+      "tmi": "Data/Levels/M11.tmi",
+      "srfa": "Data/Levels/M11.srfa",
+      "srf": "Data/Levels/M11.srf",
+      "edt": "Data/Levels/M11.edt",
+      "sgv": "Data/Levels/M11.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m11-g1.jpg",
+      "video": "/media/missions/m11-g1.mp4",
+      "poster": "/media/missions/m11-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m11-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 11（0x438bbb 起 22 分支）push 顺序: 领土行0x4a48fc 基地行0x4a48e0 战况0x4a4820 任务0x4a47ec（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M11.map（文件存在）",
+      "g1 Data/Levels/M11.til（文件存在）",
+      "g1 Data/Levels/M11.tmi（文件存在）",
+      "g1 Data/Levels/M11.srfa（文件存在）",
+      "g1 Data/Levels/M11.srf（文件存在）",
+      "g1 Data/Levels/M11.edt（文件存在）",
+      "g1 Data/Levels/M11.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m12",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M12",
+    "order": 12,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "H2E",
+    "expectedNo": 12,
+    "difficulty": 5,
+    "opponent": "巴西",
+    "objective": "任务：占领地图东部的建筑，坚守阵地直到援军到达。然后，摧毁敌人的总部。",
+    "briefing": "敌人袭击了我们波多鄂莱哥利的基地。因此，我们的很大一部分基地都控制在敌人的手中了。你的任务是消灭敌人的所有力量。但是，你只有少数几个作战单位，你必须坚持到援军到达。援军会给你送来金钱，研究指数和陆地作战单位。你必须在他们到达之后，立即升级你的作战单位，用它们去摧毁敌人的总部。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M12.map",
+      "til": "Data/Levels/M12.til",
+      "tmi": "Data/Levels/M12.tmi",
+      "srfa": "Data/Levels/M12.srfa",
+      "srf": "Data/Levels/M12.srf",
+      "edt": "Data/Levels/M12.edt",
+      "sgv": "Data/Levels/M12.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m12-g1.jpg",
+      "video": "/media/missions/m12-g1.mp4",
+      "poster": "/media/missions/m12-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m12-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 12（0x438bbb 起 22 分支）push 顺序: 领土行0x4a47d4 基地行0x4a47b8 战况0x4a46a0 任务0x4a4658（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M12.map（文件存在）",
+      "g1 Data/Levels/M12.til（文件存在）",
+      "g1 Data/Levels/M12.tmi（文件存在）",
+      "g1 Data/Levels/M12.srfa（文件存在）",
+      "g1 Data/Levels/M12.srf（文件存在）",
+      "g1 Data/Levels/M12.edt（文件存在）",
+      "g1 Data/Levels/M12.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m13",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M13",
+    "order": 13,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "X8D",
+    "expectedNo": 8,
+    "difficulty": 4,
+    "opponent": "加拿大",
+    "objective": "任务：摧毁敌人所有的作战单位和设施。",
+    "briefing": "基地的南部控制在我们的手中，但是，其北部却掌握在敌人的手中。你的任务是夺回失去的领土。要注意！敌人控制着罗根炮弹工厂，所以你必须非常小心。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M13.map",
+      "til": "Data/Levels/M13.til",
+      "tmi": "Data/Levels/M13.tmi",
+      "srfa": "Data/Levels/M13.srfa",
+      "srf": "Data/Levels/M13.srf",
+      "edt": "Data/Levels/M13.edt",
+      "sgv": "Data/Levels/M13.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m13-g1.jpg",
+      "video": "/media/missions/m13-g1.mp4",
+      "poster": "/media/missions/m13-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m13-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 13（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4640 基地行0x4a4620 战况0x4a4594 任务0x4a456c（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M13.map（文件存在）",
+      "g1 Data/Levels/M13.til（文件存在）",
+      "g1 Data/Levels/M13.tmi（文件存在）",
+      "g1 Data/Levels/M13.srfa（文件存在）",
+      "g1 Data/Levels/M13.srf（文件存在）",
+      "g1 Data/Levels/M13.edt（文件存在）",
+      "g1 Data/Levels/M13.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m14",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M14",
+    "order": 14,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "U6F",
+    "expectedNo": 14,
+    "difficulty": 6,
+    "opponent": "委内瑞拉",
+    "objective": "任务：用运兵飞船把我方的陆地作战单位运送到敌人的领土上。",
+    "briefing": "敌人在这个地区的陆地作战单位非常多。首先，你要掌握许多金矿和飞机生产基地。然后，用战斗机摧毁敌人的高射炮，这样，你就能安全地用运兵飞船把坦克运送到敌人的领土上了。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M14.map",
+      "til": "Data/Levels/M14.til",
+      "tmi": "Data/Levels/M14.tmi",
+      "srfa": "Data/Levels/M14.srfa",
+      "srf": "Data/Levels/M14.srf",
+      "edt": "Data/Levels/M14.edt",
+      "sgv": "Data/Levels/M14.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m14-g1.jpg",
+      "video": "/media/missions/m14-g1.mp4",
+      "poster": "/media/missions/m14-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m14-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 14（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4558 基地行0x4a4538 战况0x4a4494 任务0x4a4458（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M14.map（文件存在）",
+      "g1 Data/Levels/M14.til（文件存在）",
+      "g1 Data/Levels/M14.tmi（文件存在）",
+      "g1 Data/Levels/M14.srfa（文件存在）",
+      "g1 Data/Levels/M14.srf（文件存在）",
+      "g1 Data/Levels/M14.edt（文件存在）",
+      "g1 Data/Levels/M14.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m15",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M15",
+    "order": 15,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "N3F",
+    "expectedNo": 15,
+    "difficulty": 6,
+    "opponent": "埃及",
+    "objective": "任务：用30分钟的时间占领敌人的基地。",
+    "briefing": "敌人的援军就要到达我方埃及西部的基地了。在他们到达之前，占领这个基地。你仅仅有30分钟的时间。充分利用空中力量完成这次任务。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M15.map",
+      "til": "Data/Levels/M15.til",
+      "tmi": "Data/Levels/M15.tmi",
+      "srfa": "Data/Levels/M15.srfa",
+      "srf": "Data/Levels/M15.srf",
+      "edt": "Data/Levels/M15.edt",
+      "sgv": "Data/Levels/M15.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m15-g1.jpg",
+      "video": "/media/missions/m15-g1.mp4",
+      "poster": "/media/missions/m15-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m15-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 15（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4440 基地行0x4a4424 战况0x4a43a8 任务0x4a4380（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M15.map（文件存在）",
+      "g1 Data/Levels/M15.til（文件存在）",
+      "g1 Data/Levels/M15.tmi（文件存在）",
+      "g1 Data/Levels/M15.srfa（文件存在）",
+      "g1 Data/Levels/M15.srf（文件存在）",
+      "g1 Data/Levels/M15.edt（文件存在）",
+      "g1 Data/Levels/M15.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m16",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M16",
+    "order": 16,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "J9G",
+    "expectedNo": 16,
+    "difficulty": 7,
+    "opponent": "阿拉斯加州",
+    "objective": "任务：利用炮塔和作战单位摧毁敌人所有的军事力量，占领整个基地。你仅有40分钟的时间！",
+    "briefing": "这个地区有着丰富的金矿资源。你的第一个目的是要控制所有的金矿。然后，在敌人建筑的旁边建造炮塔，从而摧毁它们。注意！你仅有40分钟的时间完成这项任务！",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M16.map",
+      "til": "Data/Levels/M16.til",
+      "tmi": "Data/Levels/M16.tmi",
+      "srfa": "Data/Levels/M16.srfa",
+      "srf": "Data/Levels/M16.srf",
+      "edt": "Data/Levels/M16.edt",
+      "sgv": "Data/Levels/M16.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m16-g1.jpg",
+      "video": "/media/missions/m16-g1.mp4",
+      "poster": "/media/missions/m16-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m16-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 16（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4368 基地行0x4a4344 战况0x4a42b0 任务0x4a425c（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M16.map（文件存在）",
+      "g1 Data/Levels/M16.til（文件存在）",
+      "g1 Data/Levels/M16.tmi（文件存在）",
+      "g1 Data/Levels/M16.srfa（文件存在）",
+      "g1 Data/Levels/M16.srf（文件存在）",
+      "g1 Data/Levels/M16.edt（文件存在）",
+      "g1 Data/Levels/M16.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m17",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M17",
+    "order": 17,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "R4G",
+    "expectedNo": 17,
+    "difficulty": 7,
+    "opponent": "南韩",
+    "objective": "任务：你必须坚守30分钟。当援军到达后，立即升级你的工厂，并摧毁敌人的总部。",
+    "briefing": "我们要用一小组力量进攻南韩的这个基地。你的任务是用这些军事力量控制富产金矿的东部。这样，你就会得到丰富的金钱。用它们防御，直到援军到达，它们会送来金钱、研究指数和装满重型武器的运兵飞船。在援军到达后，立即升级工厂。然后，你就可以很容易地消灭敌人了。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M17.map",
+      "til": "Data/Levels/M17.til",
+      "tmi": "Data/Levels/M17.tmi",
+      "srfa": "Data/Levels/M17.srfa",
+      "srf": "Data/Levels/M17.srf",
+      "edt": "Data/Levels/M17.edt",
+      "sgv": "Data/Levels/M17.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m17-g1.jpg",
+      "video": "/media/missions/m17-g1.mp4",
+      "poster": "/media/missions/m17-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m17-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 17（0x438bbb 起 22 分支）push 顺序: 领土行0x4a4248 基地行0x4a422c 战况0x4a4130 任务0x4a40e4（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M17.map（文件存在）",
+      "g1 Data/Levels/M17.til（文件存在）",
+      "g1 Data/Levels/M17.tmi（文件存在）",
+      "g1 Data/Levels/M17.srfa（文件存在）",
+      "g1 Data/Levels/M17.srf（文件存在）",
+      "g1 Data/Levels/M17.edt（文件存在）",
+      "g1 Data/Levels/M17.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m18",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M18",
+    "order": 18,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "Y1G",
+    "expectedNo": 18,
+    "difficulty": 7,
+    "opponent": "日本",
+    "objective": "任务：用大量的重型陆地作战单位击败敌人的防御。",
+    "briefing": "注意！这个地区的敌人十分强大。他们有许多炮塔和空中作战单位。必须有一队重型陆地作战单位才能击败它。单独的作战单位是无法攻破敌人的防御的。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M18.map",
+      "til": "Data/Levels/M18.til",
+      "tmi": "Data/Levels/M18.tmi",
+      "srfa": "Data/Levels/M18.srfa",
+      "srf": "Data/Levels/M18.srf",
+      "edt": "Data/Levels/M18.edt",
+      "sgv": "Data/Levels/M18.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m18-g1.jpg",
+      "video": "/media/missions/m18-g1.mp4",
+      "poster": "/media/missions/m18-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m18-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 18（0x438bbb 起 22 分支）push 顺序: 领土行0x4a40cc 基地行0x4a40b0 战况0x4a4024 任务0x4a3ff4（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M18.map（文件存在）",
+      "g1 Data/Levels/M18.til（文件存在）",
+      "g1 Data/Levels/M18.tmi（文件存在）",
+      "g1 Data/Levels/M18.srfa（文件存在）",
+      "g1 Data/Levels/M18.srf（文件存在）",
+      "g1 Data/Levels/M18.edt（文件存在）",
+      "g1 Data/Levels/M18.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m19",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M19",
+    "order": 19,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "E0H",
+    "expectedNo": 19,
+    "difficulty": 8,
+    "opponent": "智利",
+    "objective": "任务：尽快摧毁敌人的总部。",
+    "briefing": "这是一次特殊的任务，敌人有两个总部。一个在岛上，你需要大量的空中作战单位攻下它。要快，使敌人没有喘息的机会，他们就来不及升级工厂并制造出更强大的武器了。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M19.map",
+      "til": "Data/Levels/M19.til",
+      "tmi": "Data/Levels/M19.tmi",
+      "srfa": "Data/Levels/M19.srfa",
+      "srf": "Data/Levels/M19.srf",
+      "edt": "Data/Levels/M19.edt",
+      "sgv": "Data/Levels/M19.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m19-g1.jpg",
+      "video": "/media/missions/m19-g1.mp4",
+      "poster": "/media/missions/m19-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m19-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 19（0x438bbb 起 22 分支）push 顺序: 领土行0x4a3fe0 基地行0x4a3fc4 战况0x4a3f28 任务0x4a3f0c（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M19.map（文件存在）",
+      "g1 Data/Levels/M19.til（文件存在）",
+      "g1 Data/Levels/M19.tmi（文件存在）",
+      "g1 Data/Levels/M19.srfa（文件存在）",
+      "g1 Data/Levels/M19.srf（文件存在）",
+      "g1 Data/Levels/M19.edt（文件存在）",
+      "g1 Data/Levels/M19.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m20",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M20",
+    "order": 20,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "A6H",
+    "expectedNo": 20,
+    "difficulty": 8,
+    "opponent": "俄国",
+    "objective": "任务：用空中力量占领太阳能搜集器，升级你的作战单位，摧毁敌人所有的总部。",
+    "briefing": "首先你要尽量多占领飞机生产基地，控制好形势，这样，利用空中力量占领位于西北部的太阳能搜集器。最后，升级你的单位，消灭敌人。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M20.map",
+      "til": "Data/Levels/M20.til",
+      "tmi": "Data/Levels/M20.tmi",
+      "srfa": "Data/Levels/M20.srfa",
+      "srf": "Data/Levels/M20.srf",
+      "edt": "Data/Levels/M20.edt",
+      "sgv": "Data/Levels/M20.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m20-g1.jpg",
+      "video": "/media/missions/m20-g1.mp4",
+      "poster": "/media/missions/m20-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m20-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 20（0x438bbb 起 22 分支）push 顺序: 领土行0x4a3ef4 基地行0x4a3ed8 战况0x4a3e5c 任务0x4a3e10（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M20.map（文件存在）",
+      "g1 Data/Levels/M20.til（文件存在）",
+      "g1 Data/Levels/M20.tmi（文件存在）",
+      "g1 Data/Levels/M20.srfa（文件存在）",
+      "g1 Data/Levels/M20.srf（文件存在）",
+      "g1 Data/Levels/M20.edt（文件存在）",
+      "g1 Data/Levels/M20.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m21",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M21",
+    "order": 21,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "Q2I",
+    "expectedNo": 21,
+    "difficulty": 9,
+    "opponent": "南非共和国",
+    "objective": "任务：摧毁敌人所有的建筑和作战单位。你仅有50分钟的时间。",
+    "briefing": "我们的战役已接近了尾声。你的下一个任务是在南非。迅速占领太阳能搜集器，要不惜任何代价。这个建筑对于你非常重要，因为，你要击败敌人只能靠重型作战单位。在这次任务中，你可以利用两个飞碟。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M21.map",
+      "til": "Data/Levels/M21.til",
+      "tmi": "Data/Levels/M21.tmi",
+      "srfa": "Data/Levels/M21.srfa",
+      "srf": "Data/Levels/M21.srf",
+      "edt": "Data/Levels/M21.edt",
+      "sgv": "Data/Levels/M21.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m21-g1.jpg",
+      "video": "/media/missions/m21-g1.mp4",
+      "poster": "/media/missions/m21-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m21-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 21（0x438bbb 起 22 分支）push 顺序: 领土行0x4a3df8 基地行0x4a3dd4 战况0x4a3d1c 任务0x4a3ce0（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M21.map（文件存在）",
+      "g1 Data/Levels/M21.til（文件存在）",
+      "g1 Data/Levels/M21.tmi（文件存在）",
+      "g1 Data/Levels/M21.srfa（文件存在）",
+      "g1 Data/Levels/M21.srf（文件存在）",
+      "g1 Data/Levels/M21.edt（文件存在）",
+      "g1 Data/Levels/M21.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m22",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M22",
+    "order": 22,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "M7J",
+    "expectedNo": 22,
+    "difficulty": 9,
+    "opponent": "伊朗",
+    "objective": "任务：摧毁敌人的残余兵力，战胜“超级防线”。",
+    "briefing": "这是最后的一次任务。敌人聚集了他的所有残余兵力保护他们的老家“超级防线”。消灭所有敌人，占领敌人的每一个建筑。这是唯一能击败超级防线的方法，这样才能制止地球的混乱，把人类解救出来。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M22.map",
+      "til": "Data/Levels/M22.til",
+      "tmi": "Data/Levels/M22.tmi",
+      "srfa": "Data/Levels/M22.srfa",
+      "srf": "Data/Levels/M22.srf",
+      "edt": "Data/Levels/M22.edt",
+      "sgv": "Data/Levels/M22.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m22-g1.jpg",
+      "video": "/media/missions/m22-g1.mp4",
+      "poster": "/media/missions/m22-g1-cover.jpg",
+      "minimap": "/media/missions/minimap-m22-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 简报 switch FUN_00438b90(参数=FUN_00424c00 返回的全局任务号 DAT_0070bde8) case 22（0x438bbb 起 22 分支）push 顺序: 领土行0x4a3cc8 基地行0x4a3cac 战况0x4a3bf4 任务0x4a3bc4（正文见 research/mining-g1-briefing-region.txt）",
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；同全局 DAT_0070bde8 亦驱动简报 switch（0x438ac3 call FUN_00424c00 后 push 参数）",
+      "g1 Data/Levels/M22.map（文件存在）",
+      "g1 Data/Levels/M22.til（文件存在）",
+      "g1 Data/Levels/M22.tmi（文件存在）",
+      "g1 Data/Levels/M22.srfa（文件存在）",
+      "g1 Data/Levels/M22.srf（文件存在）",
+      "g1 Data/Levels/M22.edt（文件存在）",
+      "g1 Data/Levels/M22.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g1-m23",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "M23",
+    "order": 23,
+    "type": "campaign",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": null,
+    "note": "M23 存在于关卡分发表（0x430d34 push data\\levels\\m23.sgv，跳表0x430e4c 第23项）且关卡文件存在；但简报 switch 仅覆盖任务号1–22，超出时走默认分支显示「没有资料」（0x439059 push 0x4a3bb8）。其在战役中的定位未确定。",
+    "files": {
+      "map": "Data/Levels/M23.map",
+      "til": "Data/Levels/M23.til",
+      "tmi": "Data/Levels/M23.tmi",
+      "srfa": "Data/Levels/M23.srfa",
+      "srf": "Data/Levels/M23.srf"
+    },
+    "media": {
+      "image": "/media/missions/m23-g1.jpg",
+      "minimap": "/media/missions/minimap-m23-g1.png"
+    },
+    "sources": [
+      "g1 State of War.exe 关卡分发 FUN(0x430b5a 调用取任务号→dec→跳表0x430e4c→0x430b7b 起 push data\\levels\\m01.sgv…m23.sgv)；简报 switch 默认分支 0x439059（「没有资料」0x4a3bb8）"
+    ]
+  },
+  {
+    "id": "g1-01-first-spark",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "01-first-spark",
+    "order": 1,
+    "type": "network",
+    "title": "热身行动",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "这次任务是为初学者设计的。这是一块美味的蛋糕。游戏中，只有两个建筑和轻型的作战单位。这样，可以帮助玩家学会多人游戏的基础。先试一下吧！",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/01-First Spark.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/01-First Spark.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g1-02-ice-blizzard",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "02-ice-blizzard",
+    "order": 2,
+    "type": "network",
+    "title": "暴风雪",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "这是一次中等难度的任务。适合中选熟练程度的玩家。游戏中，有中选作战单位，炮塔和少量的空中作战力量。非常有趣！强力推荐！",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/02-Ice Blizzard.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/02-Ice Blizzard.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g1-03-gold-rush",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "03-gold-rush",
+    "order": 3,
+    "type": "network",
+    "title": "淘金热",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "这次任务适合有两次作战经验的玩家。游戏中，有几座金矿，你还会发现一些中选作战单位，和几个空中力量。酷极了！",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/03-Gold Rush.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/03-Gold Rush.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g1-04-great-crush",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "04-great-crush",
+    "order": 4,
+    "type": "network",
+    "title": "大扫荡",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "这次任务是为富有作战经验的玩家设计的。游戏中增加了许多中型作战单位，炮塔，空中力量，超级机器人和罗根炸弹设施。惊险而又刺激！",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/04-Great Crush.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/04-Great Crush.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g1-05-nuclear-devastation",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "05-nuclear-devastation",
+    "order": 5,
+    "type": "network",
+    "title": "原子弹行动",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "游戏的双方都拥有中型作战单位，超级机器人，空中力量和炮塔。另外，每一方还有罗根炸弹。适合战术熟练的玩家。这是一次歼灭大行动！",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/05-Nuclear Devastation.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/05-Nuclear Devastation.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g1-06-meteor-swarm",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "06-meteor-swarm",
+    "order": 6,
+    "type": "network",
+    "title": "流星风暴",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "这次任务极其艰巨。游戏中，有重型作战单位！准备好接受大量陆地作战单位的重型袭击。在这里，还会出现星体炸弹。它们的爆炸是一种非常壮观的景象。还等什么？",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/06-Meteor Swarm.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/06-Meteor Swarm.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g1-07-cross-of-fire",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "07-cross-of-fire",
+    "order": 7,
+    "type": "network",
+    "title": "战火篇",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "这可能会是你的一场恶梦。每一方都有两个总部和两个飞碟。你准备好重型作战单位，炮塔，空中力量和超级机器人和大量的建筑了吗？速速占领有利的地势。仅适用于专家级别的玩家。",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/07-Cross of Fire.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/07-Cross of Fire.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g1-08-island-of-fate",
+    "game": "g1",
+    "games": [
+      "g1"
+    ],
+    "code": "08-island-of-fate",
+    "order": 8,
+    "type": "network",
+    "title": "岛屿之命",
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "除非你是拿破仑再世，否则能难取胜。游戏中到处分散着大量的作战单位。右下角的岛屿是最重要的建筑。生死在天，试一下自己的运气吧！",
+    "note": null,
+    "files": {
+      "net": "Data/Levels/08-Island of Fate.net"
+    },
+    "media": {},
+    "sources": [
+      "g1 Data/Levels/08-Island of Fate.net（文件存在；文件名即英文名）",
+      "g1 ReadMe.doc「多人游戏任务」节（说明书按编号01–08给出中文名与说明，编号与文件名前缀一致）"
+    ]
+  },
+  {
+    "id": "g2-m01",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M01",
+    "order": 1,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "X8A3",
+    "expectedNo": 1,
+    "difficulty": 2,
+    "opponent": null,
+    "objective": "任务：收集1000点研究指数，升级工厂，消灭敌人总部。",
+    "briefing": "占领地图中间的太阳能收集器，尽快收集500点研究指数。这样，你就能升级工厂，制造出更好的作战单位。第二个工厂升级后，你就能制造出空中力量了。用战斗机破坏炮塔，你的坦克就可以安全的通过敌方领域。如果你设法破坏了敌人的总部，你的任务就完成了。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M01.map",
+      "til": "Data/Levels/M01.til",
+      "tmi": "Data/Levels/M01.tmi",
+      "srfa": "Data/Levels/M01.srfa",
+      "srf": "Data/Levels/M01.srf",
+      "edt": "Data/Levels/M01.edt",
+      "sgv": "Data/Levels/M01.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m01-g2.jpg",
+      "video": "/media/missions/m01-g2.mp4",
+      "poster": "/media/missions/m01-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m01-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号1→case条目（push 顺序: 领土行0x4a18c4 基地行0x4a18b4 战况0x4a17c8 任务0x4a1794，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号1→data\\levels\\m01.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M01.map（文件存在）",
+      "g2 Data/Levels/M01.til（文件存在）",
+      "g2 Data/Levels/M01.tmi（文件存在）",
+      "g2 Data/Levels/M01.srfa（文件存在）",
+      "g2 Data/Levels/M01.srf（文件存在）",
+      "g2 Data/Levels/M01.edt（文件存在）",
+      "g2 Data/Levels/M01.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m02",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M02",
+    "order": 2,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "E1B2",
+    "expectedNo": 2,
+    "difficulty": 3,
+    "opponent": null,
+    "objective": "任务：用少量的重型战斗机器人消灭敌方所有的作战单位和建筑。",
+    "briefing": "我们得到消息雷曼先生藏在此区域的某个地方。因此，为完成此项任务，我们打算准备一队重型机器人，来破坏敌方所有的抵抗力量和建筑。需要特别注意，在此任务中没有援军，并且敌人的作战力量优于我方。",
+    "note": "战况正文以「第二个工厂」结尾，原文即在此截断。",
+    "files": {
+      "map": "Data/Levels/M02.map",
+      "til": "Data/Levels/M02.til",
+      "tmi": "Data/Levels/M02.tmi",
+      "srfa": "Data/Levels/M02.srfa",
+      "srf": "Data/Levels/M02.srf",
+      "edt": "Data/Levels/M02.edt",
+      "sgv": "Data/Levels/M02.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m02-g2.jpg",
+      "video": "/media/missions/m02-g2.mp4",
+      "poster": "/media/missions/m02-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m02-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号2→case条目（push 顺序: 领土行0x4a1774 基地行0x4a1764 战况0x4a16a8 任务0x4a1668，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号2→data\\levels\\m02.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M02.map（文件存在）",
+      "g2 Data/Levels/M02.til（文件存在）",
+      "g2 Data/Levels/M02.tmi（文件存在）",
+      "g2 Data/Levels/M02.srfa（文件存在）",
+      "g2 Data/Levels/M02.srf（文件存在）",
+      "g2 Data/Levels/M02.edt（文件存在）",
+      "g2 Data/Levels/M02.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m03",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M03",
+    "order": 3,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "B2E8",
+    "expectedNo": 3,
+    "difficulty": 3,
+    "opponent": null,
+    "objective": "任务：抵制敌人的进攻，完成护航任务。",
+    "briefing": "这次任务是保护罗根炸弹通过这个地区，你只有几个作战单位随行。特别要注意敌人的空中力量会毫不留情的破坏你的护航行动的。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M03.map",
+      "til": "Data/Levels/M03.til",
+      "tmi": "Data/Levels/M03.tmi",
+      "srfa": "Data/Levels/M03.srfa",
+      "srf": "Data/Levels/M03.srf",
+      "edt": "Data/Levels/M03.edt",
+      "sgv": "Data/Levels/M03.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m03-g2.jpg",
+      "video": "/media/missions/m03-g2.mp4",
+      "poster": "/media/missions/m03-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m03-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号3→case条目（push 顺序: 领土行0x4a1648 基地行0x4a1638 战况0x4a15c0 任务0x4a1598，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号3→data\\levels\\m03.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M03.map（文件存在）",
+      "g2 Data/Levels/M03.til（文件存在）",
+      "g2 Data/Levels/M03.tmi（文件存在）",
+      "g2 Data/Levels/M03.srfa（文件存在）",
+      "g2 Data/Levels/M03.srf（文件存在）",
+      "g2 Data/Levels/M03.edt（文件存在）",
+      "g2 Data/Levels/M03.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m04",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M04",
+    "order": 4,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "P4C7",
+    "expectedNo": 4,
+    "difficulty": 4,
+    "opponent": null,
+    "objective": "任务：在35分钟之内，破坏敌人的防御系统和建筑。 ",
+    "briefing": "在这个任务中，敌人的基地有很强的防御系统。你的工厂能生产破坏性极强的罗根炸弹，再借助3个飞碟的帮助，将有效破坏敌人的防御系统。你必须尽快，在35分钟内完成任务。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M04.map",
+      "til": "Data/Levels/M04.til",
+      "tmi": "Data/Levels/M04.tmi",
+      "srfa": "Data/Levels/M04.srfa",
+      "srf": "Data/Levels/M04.srf",
+      "edt": "Data/Levels/M04.edt",
+      "sgv": "Data/Levels/M04.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m04-g2.jpg",
+      "video": "/media/missions/m04-g2.mp4",
+      "poster": "/media/missions/m04-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m04-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号4→case条目（push 顺序: 领土行0x4a1578 基地行0x4a1568 战况0x4a14c8 任务0x4a1494，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号4→data\\levels\\m04.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M04.map（文件存在）",
+      "g2 Data/Levels/M04.til（文件存在）",
+      "g2 Data/Levels/M04.tmi（文件存在）",
+      "g2 Data/Levels/M04.srfa（文件存在）",
+      "g2 Data/Levels/M04.srf（文件存在）",
+      "g2 Data/Levels/M04.edt（文件存在）",
+      "g2 Data/Levels/M04.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m06",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M06",
+    "order": 5,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "W3C9",
+    "expectedNo": 5,
+    "difficulty": 5,
+    "opponent": null,
+    "objective": "任务：尽量多的控制金矿，坚持用炮塔保护我们的基地35分钟。",
+    "briefing": " 在地图的北方，发现了储量丰富的黄金矿藏。敌人在设法接管，并且在此区域调集了大量的军队。我方的军队也正在赶往那里，在他们到达之前，要注意保护我们设在附近的基地。这项任务并不轻松，敌方有着庞大的进攻力量，并且很快就有了5个飞碟。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M06.map",
+      "til": "Data/Levels/M06.til",
+      "tmi": "Data/Levels/M06.tmi",
+      "srfa": "Data/Levels/M06.srfa",
+      "srf": "Data/Levels/M06.srf",
+      "edt": "Data/Levels/M06.edt",
+      "sgv": "Data/Levels/M06.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m06-g2.jpg",
+      "video": "/media/missions/m06-g2.mp4",
+      "poster": "/media/missions/m06-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m06-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号6→case条目（push 顺序: 领土行0x4a1474 基地行0x4a1464 战况0x4a1380 任务0x4a1340，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号6→data\\levels\\m06.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M06.map（文件存在）",
+      "g2 Data/Levels/M06.til（文件存在）",
+      "g2 Data/Levels/M06.tmi（文件存在）",
+      "g2 Data/Levels/M06.srfa（文件存在）",
+      "g2 Data/Levels/M06.srf（文件存在）",
+      "g2 Data/Levels/M06.edt（文件存在）",
+      "g2 Data/Levels/M06.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m07",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M07",
+    "order": 6,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "B7D4",
+    "expectedNo": 6,
+    "difficulty": 6,
+    "opponent": null,
+    "objective": "任务：保护基地30分钟，一旦援军到达，迅速破坏敌方的总部。",
+    "briefing": "首先尽量多的控制金矿，你需要足够的资源保护基地30分钟。如果你能坚持到这一刻的话，就会获得支援，从而消灭敌方的总部。援军还包括金钱，所有这些援助将帮助你成功的完成任务。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M07.map",
+      "til": "Data/Levels/M07.til",
+      "tmi": "Data/Levels/M07.tmi",
+      "srfa": "Data/Levels/M07.srfa",
+      "srf": "Data/Levels/M07.srf",
+      "edt": "Data/Levels/M07.edt",
+      "sgv": "Data/Levels/M07.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m07-g2.jpg",
+      "video": "/media/missions/m07-g2.mp4",
+      "poster": "/media/missions/m07-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m07-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号7→case条目（push 顺序: 领土行0x4a1320 基地行0x4a1310 战况0x4a1268 任务0x4a1228，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号7→data\\levels\\m07.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M07.map（文件存在）",
+      "g2 Data/Levels/M07.til（文件存在）",
+      "g2 Data/Levels/M07.tmi（文件存在）",
+      "g2 Data/Levels/M07.srfa（文件存在）",
+      "g2 Data/Levels/M07.srf（文件存在）",
+      "g2 Data/Levels/M07.edt（文件存在）",
+      "g2 Data/Levels/M07.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m11",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M11",
+    "order": 7,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "K0D7",
+    "expectedNo": 7,
+    "difficulty": 6,
+    "opponent": null,
+    "objective": "任务：消灭敌人，占领他们的基地。",
+    "briefing": "这次的任务比较困难，因为敌方拥有大量的空中力量。我们的空中力量不占优势。但是，我们可以巧妙的调集炮塔资源，打击敌人。 ",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M11.map",
+      "til": "Data/Levels/M11.til",
+      "tmi": "Data/Levels/M11.tmi",
+      "srfa": "Data/Levels/M11.srfa",
+      "srf": "Data/Levels/M11.srf",
+      "edt": "Data/Levels/M11.edt",
+      "sgv": "Data/Levels/M11.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m11-g2.jpg",
+      "video": "/media/missions/m11-g2.mp4",
+      "poster": "/media/missions/m11-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m11-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号11→case条目（push 顺序: 领土行0x4a1208 基地行0x4a11f8 战况0x4a1180 任务0x4a115c，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号11→data\\levels\\m11.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M11.map（文件存在）",
+      "g2 Data/Levels/M11.til（文件存在）",
+      "g2 Data/Levels/M11.tmi（文件存在）",
+      "g2 Data/Levels/M11.srfa（文件存在）",
+      "g2 Data/Levels/M11.srf（文件存在）",
+      "g2 Data/Levels/M11.edt（文件存在）",
+      "g2 Data/Levels/M11.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m12",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M12",
+    "order": 8,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "H2E6",
+    "expectedNo": 8,
+    "difficulty": 5,
+    "opponent": null,
+    "objective": "任务：用尽所有的金钱修建炮塔，消灭敌方的总部。",
+    "briefing": "这块地方叫做黄金谷，有着丰富的黄金和矿物储量。我们的陆地力量目前正在此地区运转，所以我们不能依靠他们的帮助打击敌人。然而在这个任务中，你有大量的炮塔，可以利用他们有步骤的破坏敌人的总部。",
+    "note": "「领土 : 08   难度等级 : 5 z 10」中的 z 系原文如此（分隔符排版错误）。",
+    "files": {
+      "map": "Data/Levels/M12.map",
+      "til": "Data/Levels/M12.til",
+      "tmi": "Data/Levels/M12.tmi",
+      "srfa": "Data/Levels/M12.srfa",
+      "srf": "Data/Levels/M12.srf",
+      "edt": "Data/Levels/M12.edt",
+      "sgv": "Data/Levels/M12.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m12-g2.jpg",
+      "video": "/media/missions/m12-g2.mp4",
+      "poster": "/media/missions/m12-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m12-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号12→case条目（push 顺序: 领土行0x4a113c 基地行0x4a112c 战况0x4a1070 任务0x4a1040，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号12→data\\levels\\m12.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M12.map（文件存在）",
+      "g2 Data/Levels/M12.til（文件存在）",
+      "g2 Data/Levels/M12.tmi（文件存在）",
+      "g2 Data/Levels/M12.srfa（文件存在）",
+      "g2 Data/Levels/M12.srf（文件存在）",
+      "g2 Data/Levels/M12.edt（文件存在）",
+      "g2 Data/Levels/M12.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m15",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M15",
+    "order": 9,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "N3F3",
+    "expectedNo": 9,
+    "difficulty": 8,
+    "opponent": null,
+    "objective": "任务：在40分钟之内消灭敌人的4个总部。",
+    "briefing": "你的战役进行得非常精彩，胜利在望了。雷曼先生将自己的残余势力撤回了基地，你只有很短的时间消灭他的四个总部。呵呵，说起来容易，相信你一定能成功。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M15.map",
+      "til": "Data/Levels/M15.til",
+      "tmi": "Data/Levels/M15.tmi",
+      "srfa": "Data/Levels/M15.srfa",
+      "srf": "Data/Levels/M15.srf",
+      "edt": "Data/Levels/M15.edt",
+      "sgv": "Data/Levels/M15.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m15-g2.jpg",
+      "video": "/media/missions/m15-g2.mp4",
+      "poster": "/media/missions/m15-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m15-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号15→case条目（push 顺序: 领土行0x4a1020 基地行0x4a1010 战况0x4a0f80 任务0x4a0f58，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号15→data\\levels\\m15.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M15.map（文件存在）",
+      "g2 Data/Levels/M15.til（文件存在）",
+      "g2 Data/Levels/M15.tmi（文件存在）",
+      "g2 Data/Levels/M15.srfa（文件存在）",
+      "g2 Data/Levels/M15.srf（文件存在）",
+      "g2 Data/Levels/M15.edt（文件存在）",
+      "g2 Data/Levels/M15.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m20",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M20",
+    "order": 10,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "A6H2",
+    "expectedNo": 10,
+    "difficulty": 9,
+    "opponent": null,
+    "objective": "任务：积蓄空中力量，破坏敌人在岛上的总部。",
+    "briefing": "在此任务中，敌方总部隐蔽在一个小岛上，你必须抵御敌人的进攻，直到积蓄足够的空中力量，消灭岛上的敌人总部。并且，调集力量在岛上南部的太阳能收集器，以利于更好的面对敌人的进攻。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M20.map",
+      "til": "Data/Levels/M20.til",
+      "tmi": "Data/Levels/M20.tmi",
+      "srfa": "Data/Levels/M20.srfa",
+      "srf": "Data/Levels/M20.srf",
+      "edt": "Data/Levels/M20.edt",
+      "sgv": "Data/Levels/M20.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m20-g2.jpg",
+      "video": "/media/missions/m20-g2.mp4",
+      "poster": "/media/missions/m20-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m20-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号20→case条目（push 顺序: 领土行0x4a0f38 基地行0x4a0f28 战况0x4a0e78 任务0x4a0e48，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号20→data\\levels\\m20.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M20.map（文件存在）",
+      "g2 Data/Levels/M20.til（文件存在）",
+      "g2 Data/Levels/M20.tmi（文件存在）",
+      "g2 Data/Levels/M20.srfa（文件存在）",
+      "g2 Data/Levels/M20.srf（文件存在）",
+      "g2 Data/Levels/M20.edt（文件存在）",
+      "g2 Data/Levels/M20.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-m22",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "M22",
+    "order": 11,
+    "type": "campaign",
+    "title": null,
+    "baseCode": "M7J1",
+    "expectedNo": 11,
+    "difficulty": 7,
+    "opponent": null,
+    "objective": "任务：不要让罗曼先生逃走，不惜一切代价消灭他！",
+    "briefing": "战争狂人，公众的敌人和叛徒-罗曼先生意识到失败为时不远了，他和克里斯托帮乌合之众，在四个装甲罗根炸弹的保护下，打算逃避公众的追踪。我们的雷达系统在最后一秒钟终于查到了他的位置，我们的陆地力量来不及赶到那里。你可以动用手里的40架战斗机彻底地消灭他。",
+    "note": null,
+    "files": {
+      "map": "Data/Levels/M22.map",
+      "til": "Data/Levels/M22.til",
+      "tmi": "Data/Levels/M22.tmi",
+      "srfa": "Data/Levels/M22.srfa",
+      "srf": "Data/Levels/M22.srf",
+      "edt": "Data/Levels/M22.edt",
+      "sgv": "Data/Levels/M22.sgv"
+    },
+    "media": {
+      "image": "/media/missions/m22-g2.jpg",
+      "video": "/media/missions/m22-g2.mp4",
+      "poster": "/media/missions/m22-g2-cover.jpg",
+      "minimap": "/media/missions/minimap-m22-g2.png"
+    },
+    "sources": [
+      "g2 State of War - Warmonger.exe 简报 switch FUN(0x437065) 字节表0x4375c8: 任务号22→case条目（push 顺序: 领土行0x4a0e28 基地行0x4a0e18 战况0x4a0d20 任务0x4a0cf0，正文见 research/mining-g2-briefings.txt）",
+      "关卡分发表0x42f65c（0x42f386 起 23 项）: 任务号22→data\\levels\\m22.sgv；字节表中任务号5/8/9/10/13/14/16–19/21 指向默认「没有资料」，与磁盘缺失的 mNN 文件一一对应",
+      "g2 Data/Levels/M22.map（文件存在）",
+      "g2 Data/Levels/M22.til（文件存在）",
+      "g2 Data/Levels/M22.tmi（文件存在）",
+      "g2 Data/Levels/M22.srfa（文件存在）",
+      "g2 Data/Levels/M22.srf（文件存在）",
+      "g2 Data/Levels/M22.edt（文件存在）",
+      "g2 Data/Levels/M22.sgv（文件存在）"
+    ]
+  },
+  {
+    "id": "g2-00-the-first-step",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "00-the-first-step",
+    "order": 0,
+    "type": "network",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": null,
+    "note": "g2 说明书（ReadME.doc）无联机地图说明章节；中文名未确定，nameEn/英文名来自文件名。",
+    "files": {
+      "net": "Data/Levels/00-the first step.net"
+    },
+    "media": {},
+    "sources": [
+      "g2 Data/Levels/00-the first step.net（文件存在；文件名即英文名）"
+    ]
+  },
+  {
+    "id": "g2-01-goldmine-valley",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "01-goldmine-valley",
+    "order": 1,
+    "type": "network",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": null,
+    "note": "g2 说明书（ReadME.doc）无联机地图说明章节；中文名未确定，nameEn/英文名来自文件名。",
+    "files": {
+      "net": "Data/Levels/01-goldmine valley.net"
+    },
+    "media": {},
+    "sources": [
+      "g2 Data/Levels/01-goldmine valley.net（文件存在；文件名即英文名）"
+    ]
+  },
+  {
+    "id": "g2-02-air-attacks",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "02-air-attacks",
+    "order": 2,
+    "type": "network",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": null,
+    "note": "g2 说明书（ReadME.doc）无联机地图说明章节；中文名未确定，nameEn/英文名来自文件名。",
+    "files": {
+      "net": "Data/Levels/02-air attacks.net"
+    },
+    "media": {},
+    "sources": [
+      "g2 Data/Levels/02-air attacks.net（文件存在；文件名即英文名）"
+    ]
+  },
+  {
+    "id": "g2-03-winter-war",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "03-winter-war",
+    "order": 3,
+    "type": "network",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": null,
+    "note": "g2 说明书（ReadME.doc）无联机地图说明章节；中文名未确定，nameEn/英文名来自文件名。",
+    "files": {
+      "net": "Data/Levels/03-winter war.net"
+    },
+    "media": {},
+    "sources": [
+      "g2 Data/Levels/03-winter war.net（文件存在；文件名即英文名）"
+    ]
+  },
+  {
+    "id": "g2-04-burn-them-all",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "04-burn-them-all",
+    "order": 4,
+    "type": "network",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": null,
+    "note": "g2 说明书（ReadME.doc）无联机地图说明章节；中文名未确定，nameEn/英文名来自文件名。",
+    "files": {
+      "net": "Data/Levels/04-burn them all.net"
+    },
+    "media": {},
+    "sources": [
+      "g2 Data/Levels/04-burn them all.net（文件存在；文件名即英文名）"
+    ]
+  },
+  {
+    "id": "g2-05-ground-zero",
+    "game": "g2",
+    "games": [
+      "g2"
+    ],
+    "code": "05-ground-zero",
+    "order": 5,
+    "type": "network",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": null,
+    "note": "g2 说明书（ReadME.doc）无联机地图说明章节；中文名未确定，nameEn/英文名来自文件名。",
+    "files": {
+      "net": "Data/Levels/05-ground zero.net"
+    },
+    "media": {},
+    "sources": [
+      "g2 Data/Levels/05-ground zero.net（文件存在；文件名即英文名）"
+    ]
+  },
+  {
+    "id": "g12-m00",
+    "game": "g1",
+    "games": [
+      "g1",
+      "g2"
+    ],
+    "code": "M00",
+    "order": 0,
+    "type": "tutorial",
+    "title": null,
+    "baseCode": null,
+    "expectedNo": null,
+    "difficulty": null,
+    "opponent": null,
+    "objective": null,
+    "briefing": "i 欢迎你来到蓝色警戒教练课堂。请点击右边的箭头继续课程。\n! 点击右边的箭头环视整个地图。\n! 你也可以用方向键环视整个地图。\ni 课程A: 飞碟。\n! 这是你的飞碟。选择它，然后点击目的地来移动飞碟。\ni 飞碟是最重要的作战单位。它有三个基本特征。可以用它来占领，升级，修理。\n! 现在试着占领这个轻型工厂。选择飞碟，然后点击工厂。\n! 这个轻型工厂会制造出陆地作战单位。它们的制造是自动的，不用花费任何东西。请等到进度条满。\ni 同时，为了制造出更多的作战单位，你也可以用飞碟升级工厂。绿色箭头的显示表示可以升级工厂了。现在，升级这个轻型工厂。\n! 飞碟也可以修理被破坏的建筑。（请按鼠标右键切换修理和升级模式，修理这个建筑。）\ni 课程B:炮塔。\ni 这是你的金矿。你可以用制造的金钱来生产保护建筑的炮塔。你也可以升级这个建筑。它会加速你的金钱的流入。\n! 现在，你有足够的钱建造你的第一个炮塔了。当敌人在炮塔射程内时，炮塔会自动向敌人射击。点击炮塔图标，把它放在建筑的附近，毁掉敌人的作战单位。\ni 课程C:空中力量.\n! 这是空中单位生产基地。你可以使用它生产出空中力量。请等到进度条满。\n! 点击图标。\n! 用它去轰炸敌人的作战单位。只用几次，你就会把敌人全部消灭。\ni 课程D:技术水平。\ni 这是你的轻型工厂。它能制造轻型作战单位。它也可以制造更强的中型作战单位，但它需要研究指数来提高它的技术水平。\n! 现在你拥有了400研究指数。要获得更多的研究指数，你必须占领位于下方的太阳能搜集器。\n! 现在，选择轻型工厂，注意屏幕右边的作战单位图标。当你有500分的时候，就可以升级你的工厂了。技术水平图标会显示在作战单位图标的旁边。\n! 现在，点击技术水平图标，一种新的武器会自动开始制造。\ni 课程E:最后的任务。\n! 这是你的总部。任务是毁掉敌人的基地。\n! 哦，一些建筑有卫星保护系统。所以你应该用陆地作战单位攻击这些建筑。占领这些工厂，然后，毁掉敌人的基地。\n! 很好！你成功地掌握了全部课程。",
+    "note": "课文顺序按 .data 内存地址倒序重建（首锚点 0x4a22cc 欢迎语、尾锚点 0x4a1c80 结束语）；'i ' 开头为课程标题/讲解，'! ' 开头为操作步骤。两作 M00 关卡文件完全相同，g2 教程文本（0x49ed38 起）与 g1 相同。",
+    "files": {
+      "map": "Data/Levels/M00.map",
+      "til": "Data/Levels/M00.til",
+      "tmi": "Data/Levels/M00.tmi",
+      "srfa": "Data/Levels/M00.srfa",
+      "srf": "Data/Levels/M00.srf",
+      "edt": "Data/Levels/M00.edt"
+    },
+    "media": {
+      "image": "/media/missions/m00-g12.jpg",
+      "minimap": "/media/missions/minimap-m00-g12.png"
+    },
+    "sources": [
+      "g1 State of War.exe .data 0x4a1c80–0x4a22cc（正文见 research/mining-g1-tutorial.txt）",
+      "g2 State of War - Warmonger.exe .data 0x49ed38 起（II_strings.txt 同文）",
+      "g1 Data/Levels/M00.* 与 g2 Data/Levels/M00.*（两作文件相同）",
+      "g1 State of War.exe 关卡短名表 0x4a0d30–0x4a0d48（m00–m30，加载器 0x420b47 push \"m00\"，跳表0x420e14 索引0）"
+    ]
+  }
+]

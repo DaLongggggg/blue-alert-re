@@ -1,0 +1,50 @@
+[
+  {
+    "id": "u-001",
+    "games": ["g1", "g2"],
+    "name": "指挥总部（示例）",
+    "nameEn": "Command Center",
+    "category": "building",
+    "unitId": null,
+    "summary": "示例单位：两作共有的核心建筑，被摧毁即战败。",
+    "description": "指挥总部是基地的核心建筑（示例说明文本）。它同时出现在第一部与第二部中，因此徽标会同时显示两个作品。",
+    "weapons": [],
+    "stats": [
+      { "name": "生命值", "value": "1000", "source": "示例" },
+      { "name": "耗电", "value": "10", "source": "示例" }
+    ],
+    "image": "/media/units/u-001.png",
+    "sources": ["示例数据：仅用于测试生成管线，非游戏内提取数据"]
+  },
+  {
+    "id": "u-002",
+    "games": ["g1"],
+    "name": "主战坦克（示例）",
+    "nameEn": "Battle Tank",
+    "category": "land",
+    "unitId": "3",
+    "summary": "示例单位：第一部的地面主力作战单位。",
+    "description": "这是一条示例说明：主战坦克拥有均衡的火力与装甲，是早期战役的主力。",
+    "weapons": ["105mm 主炮（示例）", "同轴机枪（示例）"],
+    "stats": [
+      { "name": "生命值", "value": "400", "source": "示例" },
+      { "name": "速度", "value": "中", "source": "示例" }
+    ],
+    "image": "/media/units/u-002.png",
+    "sources": ["示例数据：仅用于测试生成管线，非游戏内提取数据"]
+  },
+  {
+    "id": "u-003",
+    "games": ["g2"],
+    "name": "武装直升机（示例）",
+    "nameEn": null,
+    "category": "air",
+    "unitId": null,
+    "summary": "示例单位：第二部的空中作战单位。",
+    "description": null,
+    "weapons": ["火箭巢（示例）"],
+    "stats": [],
+    "image": "/media/units/u-003.png",
+    "sources": ["示例数据：仅用于测试生成管线，非游戏内提取数据"]
+  }
+]

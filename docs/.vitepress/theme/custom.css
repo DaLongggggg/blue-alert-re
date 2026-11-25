@@ -1,0 +1,151 @@
+/* ===== 品牌色：蓝色主色，深浅色模式均适配 ===== */
+:root {
+  --vp-c-brand: #2f6fdb;
+  --vp-c-brand-1: #2f6fdb;
+  --vp-c-brand-2: #2a63c4;
+  --vp-c-brand-3: #1e4f9e;
+  --vp-c-brand-soft: rgba(47, 111, 219, 0.14);
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #2f6fdb 30%, #64a0f0);
+  --vp-home-hero-name-background-image: linear-gradient(120deg, #2f6fdb 30%, #64a0f0);
+}
+
+.dark {
+  --vp-c-brand: #6aa2f7;
+  --vp-c-brand-1: #6aa2f7;
+  --vp-c-brand-2: #5b93ea;
+  --vp-c-brand-3: #4a7fd4;
+  --vp-c-brand-soft: rgba(106, 162, 247, 0.16);
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #6aa2f7 30%, #9cc3ff);
+}
+
+/* ===== 媒体占位（MediaImage / MediaVideo 共用） ===== */
+.media-image,
+.media-video {
+  margin: 1rem 0;
+}
+
+.media-image--compact {
+  margin: 0;
+}
+
+.media-image__img,
+.media-video__video {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+}
+
+.media-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  width: 100%;
+  padding: 12px;
+  border: 1.5px dashed var(--vp-c-divider);
+  border-radius: 8px;
+  background:
+    repeating-linear-gradient(
+      45deg,
+      var(--vp-c-bg-soft),
+      var(--vp-c-bg-soft) 10px,
+      var(--vp-c-bg) 10px,
+      var(--vp-c-bg) 20px
+    );
+  color: var(--vp-c-text-3);
+  font-size: 13px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.media-placeholder__icon {
+  font-size: 22px;
+  opacity: 0.7;
+}
+
+.media-placeholder__text {
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.media-placeholder__path {
+  max-width: 90%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 11px;
+  color: var(--vp-c-text-3);
+}
+
+/* ===== 探索器（MuseumExplorer / UnitExplorer） ===== */
+.explorer {
+  margin: 1.25rem 0;
+}
+
+.explorer__bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.explorer__bar input,
+.explorer__bar select {
+  padding: 6px 10px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font-size: 14px;
+  outline: none;
+}
+
+.explorer__bar input {
+  flex: 1 1 200px;
+  min-width: 160px;
+}
+
+.explorer__bar input:focus,
+.explorer__bar select:focus {
+  border-color: var(--vp-c-brand-1);
+}
+
+.explorer__count {
+  margin: 0 0 12px;
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+}
+
+.explorer__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 12px;
+}
+
+.explorer__empty {
+  padding: 28px 16px;
+  border: 1.5px dashed var(--vp-c-divider);
+  border-radius: 8px;
+  text-align: center;
+  color: var(--vp-c-text-3);
+  background: var(--vp-c-bg-soft);
+}
+
+/* ===== 生成页元信息 ===== */
+.page-meta {
+  margin: 0.5rem 0 1.25rem;
+  padding: 10px 14px;
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 0 8px 8px 0;
+  background: var(--vp-c-bg-soft);
+  font-size: 14px;
+  line-height: 1.9;
+  color: var(--vp-c-text-1);
+}
