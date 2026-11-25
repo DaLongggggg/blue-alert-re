@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
-import { existsSync, readFileSync } from 'node:fs'
-import { dirname, resolve } from 'node:path'
+import type { Plugin } from 'vite'
+import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs'
+import { dirname, join, relative, resolve, sep } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 // docs/.vitepress/config.ts -> 仓库根目录
@@ -15,6 +16,40 @@ const BASE = (() => {
   if (!b.endsWith('/')) b += '/'
   return b
 })()
+
+// docs/public 下的文件在构建期登记成一张「存在表」，以虚拟模块交给 MediaVideo：
+// 手写页里的影片也能按文件是否存在降级（mp4 不入库，线上构建时自动改为封面）。
+const PUBLIC_DIR = resolve(ROOT, 'docs/public')
+const MEDIA_EXISTS_ID = 'virtual:media-exists'
+
+function listPublicFiles(dir: string, out: string[] = []): string[] {
+  for (const name of readdirSync(dir)) {
+    const full = join(dir, name)
+    if (statSync(full).isDirectory()) listPublicFiles(full, out)
+    else out.push('/' + relative(PUBLIC_DIR, full).split(sep).join('/'))
+  }
+  return out
+}
+
+function mediaExistsPlugin(): Plugin {
+  const resolvedId = '\0' + MEDIA_EXISTS_ID
+  return {
+    name: 'blue-alert-re:media-exists',
+    resolveId(id) {
+      return id === MEDIA_EXISTS_ID ? resolvedId : null
+    },
+    load(id) {
+      if (id !== resolvedId) return null
+      let files: string[] = []
+      try {
+        files = listPublicFiles(PUBLIC_DIR)
+      } catch {
+        // docs/public 不存在时按「没有任何媒体」处理，组件自会渲染占位
+      }
+      return 'export const exists = new Set(' + JSON.stringify(files) + ')'
+    }
+  }
+}
 
 function parseJsonFile(file: string): any {
   try {
@@ -201,7 +236,7 @@ export default defineConfig({
           { text: '武器一览', link: '/units/weapons' }
         ]
       },
-      { text: '关于', link: '/about/' }
+      { text: '关于', link: '/about' }
     ],
     sidebar: {
       '/museum/': museumSidebar,
@@ -246,5 +281,8 @@ export default defineConfig({
         }
       }
     }
+  },
+  vite: {
+    plugins: [mediaExistsPlugin()]
   }
 })

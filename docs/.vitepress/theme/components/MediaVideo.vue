@@ -1,6 +1,8 @@
 <script setup>
 import { computed, ref } from 'vue'
 import { withBase } from 'vitepress'
+// 构建期生成的媒体存在表（docs/public 下实际存在的文件，见 config.ts 的 mediaExistsPlugin）
+import { exists } from 'virtual:media-exists'
 
 const props = defineProps({
   /** 站点根相对路径，如 /media/movies/mi-g1.mp4 */
@@ -13,7 +15,9 @@ const props = defineProps({
 })
 
 const failed = ref(false)
-const absent = computed(() => props.missing === true || !props.src)
+// 构建期判定：手写页不必手动传 missing，文件不在 docs/public 里就按缺失处理
+const fileMissing = computed(() => props.src !== '' && exists.has(props.src) !== true)
+const absent = computed(() => props.missing === true || !props.src || fileMissing.value)
 const shown = computed(() => absent.value === true || failed.value === true)
 const hasPoster = computed(() => props.poster !== '')
 </script>

@@ -57,6 +57,7 @@ npm run preview      # 预览构建产物
 npm run content      # 仅重新生成 missions/<id>/、units/<id>/、units/<分类>/ 页面
 npm run check        # 校验 data/*.json 与目录结构
 npm run test:pipeline  # 冒烟测试：用 data/examples 样例在 _work/ 生成页面并校验
+npm run check:links   # 构建后检查 dist 里的站内链接（导航/侧栏/组件里写的链接也覆盖）
 ```
 
 `base` 默认为 `/blue-alert-re/`（GitHub Pages 子路径）。本地想整站预览时用站点根：
@@ -97,6 +98,6 @@ BASE=/ npm run build && BASE=/ npm run preview
 
 ## 发布
 
-GitHub Actions（`.github/workflows/deploy.yml`）在 `push` 到 `main` 或手动触发时执行 `npm ci && npm run build` 并发布到 GitHub Pages。本仓库的 Pages Source 已设为 **GitHub Actions**；fork 后自行部署时，需在仓库 **Settings → Pages** 把 Source 设为 **GitHub Actions**。
+GitHub Actions（`.github/workflows/deploy.yml`）在 `push` 到 `main` 或手动触发时执行 `npm ci && npm run build`，随后用 `tools/check-links.mjs` 检查构建产物里的站内链接，通过后发布到 GitHub Pages。本仓库的 Pages Source 已设为 **GitHub Actions**；fork 后自行部署时，需在仓库 **Settings → Pages** 把 Source 设为 **GitHub Actions**。
 
 线上构建不含影片文件（不入库）：生成器检测到文件缺失时，任务页自动改为显示影片封面与说明；在本地运行提取脚本即可补齐影片。
